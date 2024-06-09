@@ -1,0 +1,5612 @@
+{
+    "AED": {
+        "symbol": "د.إ",
+        "name": "United Arab Emirates Dirham",
+        "symbol_native": "د.إ",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "AED",
+        "name_plural": "UAE dirhams",
+        "singleUnit": "Dirham",
+        "pluralUnit": "Dirhams",
+        "subunit": "fils",
+        "subunit_plural": "fils",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 د.إ",
+                "unit": "Dirham",
+                "spoken": "one Dirham"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 د.إ",
+                "unit": "fils",
+                "spoken": "fifty fils"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 د.إ",
+                "unit": "Dirhams",
+                "spoken": "twenty-five Dirhams and seventy-five fils"
+            }
+        ]
+    },
+    "AFN": {
+        "symbol": "؋",
+        "name": "Afghan Afghani",
+        "symbol_native": "؋",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "AFN",
+        "name_plural": "Afghan Afghanis",
+        "singleUnit": "Afghani",
+        "pluralUnit": "Afghanis",
+        "subunit": "pul",
+        "subunit_plural": "puls",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 ؋",
+                "unit": "Afghani",
+                "spoken": "one Afghani"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 ؋",
+                "unit": "pul",
+                "spoken": "fifty puls"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 ؋",
+                "unit": "Afghanis",
+                "spoken": "twenty-five Afghanis and seventy-five puls"
+            }
+        ]
+    },
+    "ALL": {
+        "symbol": "L",
+        "name": "Albanian Lek",
+        "symbol_native": "L",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "ALL",
+        "name_plural": "Albanian lekë",
+        "singleUnit": "Lek",
+        "pluralUnit": "Lekë",
+        "subunit": "qindarkë",
+        "subunit_plural": "qindarka",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 L",
+                "unit": "Lek",
+                "spoken": "one Lek"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 L",
+                "unit": "qindarkë",
+                "spoken": "fifty qindarka"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 L",
+                "unit": "Lekë",
+                "spoken": "twenty-five Lekë and seventy-five qindarka"
+            }
+        ]
+    },
+    "AMD": {
+        "symbol": "֏",
+        "name": "Armenian Dram",
+        "symbol_native": "֏",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "AMD",
+        "name_plural": "Armenian drams",
+        "singleUnit": "Dram",
+        "pluralUnit": "Drams",
+        "subunit": "luma",
+        "subunit_plural": "lumark",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 ֏",
+                "unit": "Dram",
+                "spoken": "one Dram"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 ֏",
+                "unit": "luma",
+                "spoken": "fifty luma"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 ֏",
+                "unit": "Drams",
+                "spoken": "twenty-five Drams and seventy-five luma"
+            }
+        ]
+    },
+    "ANG": {
+        "symbol": "ƒ",
+        "name": "Netherlands Antillean Guilder",
+        "symbol_native": "ƒ",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "ANG",
+        "name_plural": "Netherlands Antillean guilders",
+        "singleUnit": "Guilder",
+        "pluralUnit": "Guilders",
+        "subunit": "cent",
+        "subunit_plural": "cents",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 ƒ",
+                "unit": "Guilder",
+                "spoken": "one Guilder"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 ƒ",
+                "unit": "cent",
+                "spoken": "fifty cents"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 ƒ",
+                "unit": "Guilders",
+                "spoken": "twenty-five Guilders and seventy-five cents"
+            }
+        ]
+    },
+    "AOA": {
+        "symbol": "Kz",
+        "name": "Angolan Kwanza",
+        "symbol_native": "Kz",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "AOA",
+        "name_plural": "Angolan kwanzas",
+        "singleUnit": "Kwanza",
+        "pluralUnit": "Kwanzas",
+        "subunit": "cêntimo",
+        "subunit_plural": "cêntimos",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 Kz",
+                "unit": "Kwanza",
+                "spoken": "one Kwanza"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 Kz",
+                "unit": "cêntimo",
+                "spoken": "fifty cêntimos"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 Kz",
+                "unit": "Kwanzas",
+                "spoken": "twenty-five Kwanzas and seventy-five cêntimos"
+            }
+        ]
+    },
+    "ARS": {
+        "symbol": "$",
+        "name": "Argentine Peso",
+        "symbol_native": "$",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "ARS",
+        "name_plural": "Argentine pesos",
+        "singleUnit": "Peso",
+        "pluralUnit": "Pesos",
+        "subunit": "centavo",
+        "subunit_plural": "centavos",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 $",
+                "unit": "Peso",
+                "spoken": "one Peso"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 $",
+                "unit": "centavo",
+                "spoken": "fifty centavos"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 $",
+                "unit": "Pesos",
+                "spoken": "twenty-five Pesos and seventy-five centavos"
+            }
+        ]
+    },
+    "AUD": {
+        "symbol": "$",
+        "name": "Australian Dollar",
+        "symbol_native": "$",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "AUD",
+        "name_plural": "Australian dollars",
+        "singleUnit": "Dollar",
+        "pluralUnit": "Dollars",
+        "subunit": "cent",
+        "subunit_plural": "cents",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 $",
+                "unit": "Dollar",
+                "spoken": "one Dollar"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 $",
+                "unit": "cent",
+                "spoken": "fifty cents"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 $",
+                "unit": "Dollars",
+                "spoken": "twenty-five Dollars and seventy-five cents"
+            }
+        ]
+    },
+    "AWG": {
+        "symbol": "ƒ",
+        "name": "Aruban Florin",
+        "symbol_native": "ƒ",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "AWG",
+        "name_plural": "Aruban florins",
+        "singleUnit": "Florin",
+        "pluralUnit": "Florins",
+        "subunit": "cent",
+        "subunit_plural": "cents",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 ƒ",
+                "unit": "Florin",
+                "spoken": "one Florin"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 ƒ",
+                "unit": "cent",
+                "spoken": "fifty cents"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 ƒ",
+                "unit": "Florins",
+                "spoken": "twenty-five Florins and seventy-five cents"
+            }
+        ]
+    },
+    "AZN": {
+        "symbol": "₼",
+        "name": "Azerbaijani Manat",
+        "symbol_native": "₼",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "AZN",
+        "name_plural": "Azerbaijani manats",
+        "singleUnit": "Manat",
+        "pluralUnit": "Manats",
+        "subunit": "qəpik",
+        "subunit_plural": "qəpiklər",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 ₼",
+                "unit": "Manat",
+                "spoken": "one Manat"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 ₼",
+                "unit": "qəpik",
+                "spoken": "fifty qəpiklər"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 ₼",
+                "unit": "Manats",
+                "spoken": "twenty-five Manats and seventy-five qəpiklər"
+            }
+        ]
+    },
+    "BAM": {
+        "symbol": "KM",
+        "name": "Bosnia-Herzegovina Convertible Mark",
+        "symbol_native": "KM",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "BAM",
+        "name_plural": "Bosnia-Herzegovina convertible marks",
+        "singleUnit": "Convertible Mark",
+        "pluralUnit": "Convertible Marks",
+        "subunit": "fenning",
+        "subunit_plural": "fennings",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 KM",
+                "unit": "Convertible Mark",
+                "spoken": "one Convertible Mark"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 KM",
+                "unit": "fenning",
+                "spoken": "fifty fennings"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 KM",
+                "unit": "Convertible Marks",
+                "spoken": "twenty-five Convertible Marks and seventy-five fennings"
+            }
+        ]
+    },
+    "BBD": {
+        "symbol": "$",
+        "name": "Barbadian Dollar",
+        "symbol_native": "$",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "BBD",
+        "name_plural": "Barbadian dollars",
+        "singleUnit": "Dollar",
+        "pluralUnit": "Dollars",
+        "subunit": "cent",
+        "subunit_plural": "cents",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 $",
+                "unit": "Dollar",
+                "spoken": "one Dollar"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 $",
+                "unit": "cent",
+                "spoken": "fifty cents"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 $",
+                "unit": "Dollars",
+                "spoken": "twenty-five Dollars and seventy-five cents"
+            }
+        ]
+    },
+    "BDT": {
+        "symbol": "৳",
+        "name": "Bangladeshi Taka",
+        "symbol_native": "৳",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "BDT",
+        "name_plural": "Bangladeshi takas",
+        "singleUnit": "Taka",
+        "pluralUnit": "Takas",
+        "subunit": "paisa",
+        "subunit_plural": "paisa",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 ৳",
+                "unit": "Taka",
+                "spoken": "one Taka"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 ৳",
+                "unit": "paisa",
+                "spoken": "fifty paisa"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 ৳",
+                "unit": "Takas",
+                "spoken": "twenty-five Takas and seventy-five paisa"
+            }
+        ]
+    },
+    "BGN": {
+        "symbol": "лв",
+        "name": "Bulgarian Lev",
+        "symbol_native": "лв",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "BGN",
+        "name_plural": "Bulgarian leva",
+        "singleUnit": "Lev",
+        "pluralUnit": "Leva",
+        "subunit": "stotinka",
+        "subunit_plural": "stotinki",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 лв",
+                "unit": "Lev",
+                "spoken": "one Lev"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 лв",
+                "unit": "stotinka",
+                "spoken": "fifty stotinki"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 лв",
+                "unit": "Leva",
+                "spoken": "twenty-five Leva and seventy-five stotinki"
+            }
+        ]
+    },
+    "BHD": {
+        "symbol": "ب.د",
+        "name": "Bahraini Dinar",
+        "symbol_native": "ب.د",
+        "decimal_digits": 3,
+        "rounding": 0,
+        "code": "BHD",
+        "name_plural": "Bahraini dinars",
+        "singleUnit": "Dinar",
+        "pluralUnit": "Dinars",
+        "subunit": "fils",
+        "subunit_plural": "fils",
+        "examples": [
+            {
+                "amount": 1.000,
+                "formatted": "1.000 ب.د",
+                "unit": "Dinar",
+                "spoken": "one Dinar"
+            },
+            {
+                "amount": 0.500,
+                "formatted": "0.500 ب.د",
+                "unit": "fils",
+                "spoken": "fifty fils"
+            },
+            {
+                "amount": 25.750,
+                "formatted": "25.750 ب.د",
+                "unit": "Dinars",
+                "spoken": "twenty-five Dinars and seventy-five fils"
+            }
+        ]
+    },
+    "BIF": {
+        "symbol": "FBu",
+        "name": "Burundian Franc",
+        "symbol_native": "FBu",
+        "decimal_digits": 0,
+        "rounding": 0,
+        "code": "BIF",
+        "name_plural": "Burundian francs",
+        "singleUnit": "Franc",
+        "pluralUnit": "Francs",
+        "subunit": "centime",
+        "subunit_plural": "centimes",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 FBu",
+                "unit": "Franc",
+                "spoken": "one Franc"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 FBu",
+                "unit": "centime",
+                "spoken": "fifty centimes"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 FBu",
+                "unit": "Francs",
+                "spoken": "twenty-five Francs and seventy-five centimes"
+            }
+        ]
+    },
+    "BMD": {
+        "symbol": "$",
+        "name": "Bermudan Dollar",
+        "symbol_native": "$",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "BMD",
+        "name_plural": "Bermudan dollars",
+        "singleUnit": "Dollar",
+        "pluralUnit": "Dollars",
+        "subunit": "cent",
+        "subunit_plural": "cents",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 $",
+                "unit": "Dollar",
+                "spoken": "one Dollar"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 $",
+                "unit": "cent",
+                "spoken": "fifty  cents"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 $",
+                "unit": "Dollars",
+                "spoken": "twenty-five Dollars and seventy-five cents"
+            }
+        ]
+    },
+    "BND": {
+        "symbol": "$",
+        "name": "Brunei Dollar",
+        "symbol_native": "$",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "BND",
+        "name_plural": "Brunei dollars",
+        "singleUnit": "Dollar",
+        "pluralUnit": "Dollars",
+        "subunit": "sen",
+        "subunit_plural": "sen",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 $",
+                "unit": "Dollar",
+                "spoken": "one Dollar"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 $",
+                "unit": "sen",
+                "spoken": "fifty sen"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 $",
+                "unit": "Dollars",
+                "spoken": "twenty-five Dollars and seventy-five sen"
+            }
+        ]
+    },
+    "BOB": {
+        "symbol": "Bs.",
+        "name": "Bolivian Boliviano",
+        "symbol_native": "Bs.",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "BOB",
+        "name_plural": "Bolivian bolivianos",
+        "singleUnit": "Boliviano",
+        "pluralUnit": "Bolivianos",
+        "subunit": "centavo",
+        "subunit_plural": "centavos",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 Bs.",
+                "unit": "Boliviano",
+                "spoken": "one Boliviano"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 Bs.",
+                "unit": "centavo",
+                "spoken": "fifty centavos"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 Bs.",
+                "unit": "Bolivianos",
+                "spoken": "twenty-five Bolivianos and seventy-five centavos"
+            }
+        ]
+    },
+    "BRL": {
+        "symbol": "R$",
+        "name": "Brazilian Real",
+        "symbol_native": "R$",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "BRL",
+        "name_plural": "Brazilian reals",
+        "singleUnit": "Real",
+        "pluralUnit": "Reals",
+        "subunit": "centavo",
+        "subunit_plural": "centavos",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 R$",
+                "unit": "Real",
+                "spoken": "one Real"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 R$",
+                "unit": "centavo",
+                "spoken": "fifty centavos"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 R$",
+                "unit": "Reals",
+                "spoken": "twenty-five Reals and seventy-five centavos"
+            }
+        ]
+    },
+    "BSD": {
+        "symbol": "$",
+        "name": "Bahamian Dollar",
+        "symbol_native": "$",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "BSD",
+        "name_plural": "Bahamian dollars",
+        "singleUnit": "Dollar",
+        "pluralUnit": "Dollars",
+        "subunit": "cent",
+        "subunit_plural": "cents",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 $",
+                "unit": "Dollar",
+                "spoken": "one Dollar"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 $",
+                "unit": "cent",
+                "spoken": "fifty cents"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 $",
+                "unit": "Dollars",
+                "spoken": "twenty-five Dollars and seventy-five cents"
+            }
+        ]
+    },
+    "BTC": {
+        "symbol": "₿",
+        "name": "Bitcoin",
+        "symbol_native": "₿",
+        "decimal_digits": 8,
+        "rounding": 0,
+        "code": "BTC",
+        "name_plural": "bitcoins",
+        "singleUnit": "Bitcoin",
+        "pluralUnit": "Bitcoins",
+        "subunit": "satoshi",
+        "subunit_plural": "satoshis",
+        "examples": [
+            {
+                "amount": 1.00000000,
+                "formatted": "1.00000000 ₿",
+                "unit": "Bitcoin",
+                "spoken": "one Bitcoin"
+            },
+            {
+                "amount": 0.50000000,
+                "formatted": "0.50000000 ₿",
+                "unit": "satoshi",
+                "spoken": "fifty million satoshis"
+            },
+            {
+                "amount": 25.75000000,
+                "formatted": "25.75000000 ₿",
+                "unit": "Bitcoins",
+                "spoken": "twenty-five Bitcoins and seventy-five million satoshis"
+            }
+        ]
+    },
+    "BTN": {
+        "symbol": "Nu.",
+        "name": "Bhutanese Ngultrum",
+        "symbol_native": "Nu.",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "BTN",
+        "name_plural": "Bhutanese ngultrums",
+        "singleUnit": "Ngultrum",
+        "pluralUnit": "Ngultrums",
+        "subunit": "chetrum",
+        "subunit_plural": "chetrums",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 Nu.",
+                "unit": "Ngultrum",
+                "spoken": "one Ngultrum"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 Nu.",
+                "unit": "chetrum",
+                "spoken": "fifty chetrums"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 Nu.",
+                "unit": "Ngultrums",
+                "spoken": "twenty-five Ngultrums and seventy-five chetrums"
+            }
+        ]
+    },
+    "BWP": {
+        "symbol": "P",
+        "name": "Botswanan Pula",
+        "symbol_native": "P",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "BWP",
+        "name_plural": "Botswanan pulas",
+        "singleUnit": "Pula",
+        "pluralUnit": "Pulas",
+        "subunit": "thebe",
+        "subunit_plural": "thebes",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 P",
+                "unit": "Pula",
+                "spoken": "one Pula"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 P",
+                "unit": "thebe",
+                "spoken": "fifty thebes"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 P",
+                "unit": "Pulas",
+                "spoken": "twenty-five Pulas and seventy-five thebes"
+            }
+        ]
+    },
+    "BYN": {
+        "symbol": "Br",
+        "name": "Belarusian Ruble",
+        "symbol_native": "Br",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "BYN",
+        "name_plural": "Belarusian rubles",
+        "singleUnit": "Ruble",
+        "pluralUnit": "Rubles",
+        "subunit": "kapeyka",
+        "subunit_plural": "kapeyki",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 Br",
+                "unit": "Ruble",
+                "spoken": "one Ruble"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 Br",
+                "unit": "kapeyka",
+                "spoken": "fifty kapeyki"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 Br",
+                "unit": "Rubles",
+                "spoken": "twenty-five Rubles and seventy-five kapeyki"
+            }
+        ]
+    },
+    "BZD": {
+        "symbol": "$",
+        "name": "Belize Dollar",
+        "symbol_native": "$",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code":  "BZD",
+        "name_plural": "Belize dollars",
+        "singleUnit": "Dollar",
+        "pluralUnit": "Dollars",
+        "subunit": "cent",
+        "subunit_plural": "cents",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 $",
+                "unit": "Dollar",
+                "spoken": "one Dollar"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 $",
+                "unit": "cent",
+                "spoken": "fifty cents"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 $",
+                "unit": "Dollars",
+                "spoken": "twenty-five Dollars and seventy-five cents"
+            }
+        ]
+    },
+    "CAD": {
+        "symbol": "$",
+        "name": "Canadian Dollar",
+        "symbol_native": "$",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "CAD",
+        "name_plural": "Canadian dollars",
+        "singleUnit": "Dollar",
+        "pluralUnit": "Dollars",
+        "subunit": "cent",
+        "subunit_plural": "cents",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 $",
+                "unit": "Dollar",
+                "spoken": "one Dollar"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 $",
+                "unit": "cent",
+                "spoken": "fifty cents"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 $",
+                "unit": "Dollars",
+                "spoken": "twenty-five Dollars and seventy-five cents"
+            }
+        ]
+    },
+    "CDF": {
+        "symbol": "FC",
+        "name": "Congolese Franc",
+        "symbol_native": "FC",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "CDF",
+        "name_plural": "Congolese francs",
+        "singleUnit": "Franc",
+        "pluralUnit": "Francs",
+        "subunit": "centime",
+        "subunit_plural": "centimes",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 FC",
+                "unit": "Franc",
+                "spoken": "one Franc"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 FC",
+                "unit": "centime",
+                "spoken": "fifty centimes"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 FC",
+                "unit": "Francs",
+                "spoken": "twenty-five Francs and seventy-five centimes"
+            }
+        ]
+    },
+    "CHF": {
+        "symbol": "CHF",
+        "name": "Swiss Franc",
+        "symbol_native": "CHF",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "CHF",
+        "name_plural": "Swiss francs",
+        "singleUnit": "Franc",
+        "pluralUnit": "Francs",
+        "subunit": "rappen",
+        "subunit_plural": "rappen",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 CHF",
+                "unit": "Franc",
+                "spoken": "one Franc"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 CHF",
+                "unit": "rappen",
+                "spoken": "fifty rappen"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 CHF",
+                "unit": "Francs",
+                "spoken": "twenty-five Francs and seventy-five rappen"
+            }
+        ]
+    },
+    "CLF": {
+        "symbol": "UF",
+        "name": "Chilean Unit of Account (UF)",
+        "symbol_native": "UF",
+        "decimal_digits": 4,
+        "rounding": 0,
+        "code": "CLF",
+        "name_plural": "Chilean Units of Account (UF)",
+        "singleUnit": "Unit of Account",
+        "pluralUnit": "Units of Account",
+        "subunit": "centavo",
+        "subunit_plural": "centavos",
+        "examples": [
+            {
+                "amount": 1.0000,
+                "formatted": "1.0000 UF",
+                "unit": "Unit of Account",
+                "spoken": "one Unit of Account"
+            },
+            {
+                "amount": 0.5000,
+                "formatted": "0.5000 UF",
+                "unit": "centavo",
+                "spoken": "fifty centavos"
+            },
+            {
+                "amount": 25.7500,
+                "formatted": "25.7500 UF",
+                "unit": "Units of Account",
+                "spoken": "twenty-five Units of Account and seventy-five centavos"
+            }
+        ]
+    },
+    "CLP": {
+        "symbol": "$",
+        "name": "Chilean Peso",
+        "symbol_native": "$",
+        "decimal_digits": 0,
+        "rounding": 0,
+        "code": "CLP",
+        "name_plural": "Chilean pesos",
+        "singleUnit": "Peso",
+        "pluralUnit": "Pesos",
+        "subunit": "centavo",
+        "subunit_plural": "centavos",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 $",
+                "unit": "Peso",
+                "spoken": "one Peso"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 $",
+                "unit": "centavo",
+                "spoken": "fifty centavos"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 $",
+                "unit": "Pesos",
+                "spoken": "twenty-five Pesos and seventy-five centavos"
+            }
+        ]
+    },
+    "CNH": {
+        "symbol": "¥",
+        "name": "Chinese Yuan (Offshore)",
+        "symbol_native": "¥",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "CNH",
+        "name_plural": "Chinese yuan (offshore)",
+        "singleUnit": "Yuan",
+        "pluralUnit": "Yuan",
+        "subunit": "fen",
+        "subunit_plural": "fen",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 ¥",
+                "unit": "Yuan",
+                "spoken": "one Yuan"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 ¥",
+                "unit": "fen",
+                "spoken": "fifty fen"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 ¥",
+                "unit": "Yuan",
+                "spoken": "twenty-five Yuan and seventy-five fen"
+            }
+        ]
+    },
+    "CNY": {
+        "symbol": "¥",
+        "name": "Chinese Yuan",
+        "symbol_native": "¥",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "CNY",
+        "name_plural": "Chinese yuan",
+        "singleUnit": "Yuan",
+        "pluralUnit": "Yuan",
+        "subunit": "fen",
+        "subunit_plural": "fen",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 ¥",
+                "unit": "Yuan",
+                "spoken": "one Yuan"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 ¥",
+                "unit": "fen",
+                "spoken": "fifty fen"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 ¥",
+                "unit": "Yuan",
+                "spoken": "twenty-five Yuan and seventy-five fen"
+            }
+        ]
+    },
+    "COP": {
+        "symbol": "$",
+        "name": "Colombian Peso",
+        "symbol_native": "$",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "COP",
+        "name_plural": "Colombian pesos",
+        "singleUnit": "Peso",
+        "pluralUnit": "Pesos",
+        "subunit": "centavo",
+        "subunit_plural": "centavos",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 $",
+                "unit": "Peso",
+                "spoken": "one Peso"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 $",
+                "unit": "centavo",
+                "spoken": "fifty centavos"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 $",
+                "unit": "Pesos",
+                "spoken": "twenty-five Pesos and seventy -five centavos"
+            }
+        ]
+    },
+    "CRC": {
+        "symbol": "₡",
+        "name": "Costa Rican Colón",
+        "symbol_native": "₡",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "CRC",
+        "name_plural": "Costa Rican colóns",
+        "singleUnit": "Colón",
+        "pluralUnit": "Colóns",
+        "subunit": "céntimo",
+        "subunit_plural": "céntimos",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 ₡",
+                "unit": "Colón",
+                "spoken": "one Colón"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 ₡",
+                "unit": "céntimo",
+                "spoken": "fifty céntimos"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 ₡",
+                "unit": "Colóns",
+                "spoken": "twenty-five Colóns and seventy-five céntimos"
+            }
+        ]
+    },
+    "CUC": {
+        "symbol": "$",
+        "name": "Cuban Convertible Peso",
+        "symbol_native": "$",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "CUC",
+        "name_plural": "Cuban convertible pesos",
+        "singleUnit": "Convertible Peso",
+        "pluralUnit": "Convertible Pesos",
+        "subunit": "centavo",
+        "subunit_plural": "centavos",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 $",
+                "unit": "Convertible Peso",
+                "spoken": "one Convertible Peso"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 $",
+                "unit": "centavo",
+                "spoken": "fifty centavos"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 $",
+                "unit": "Convertible Pesos",
+                "spoken": "twenty-five Convertible Pesos and seventy-five centavos"
+            }
+        ]
+    },
+    "CUP": {
+        "symbol": "$",
+        "name": "Cuban Peso",
+        "symbol_native": "$",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "CUP",
+        "name_plural": "Cuban pesos",
+        "singleUnit": "Peso",
+        "pluralUnit": "Pesos",
+        "subunit": "centavo",
+        "subunit_plural": "centavos",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 $",
+                "unit": "Peso",
+                "spoken": "one Peso"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 $",
+                "unit": "centavo",
+                "spoken": "fifty centavos"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 $",
+                "unit": "Pesos",
+                "spoken": "twenty-five Pesos and seventy-five centavos"
+            }
+        ]
+    },
+    "CVE": {
+        "symbol": "$",
+        "name": "Cape Verdean Escudo",
+        "symbol_native": "$",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "CVE",
+        "name_plural": "Cape Verdean escudos",
+        "singleUnit": "Escudo",
+        "pluralUnit": "Escudos",
+        "subunit": "centavo",
+        "subunit_plural": "centavos",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 $",
+                "unit": "Escudo",
+                "spoken": "one Escudo"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 $",
+                "unit": "centavo",
+                "spoken": "fifty centavos"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 $",
+                "unit": "Escudos",
+                "spoken": "twenty-five Escudos and seventy-five centavos"
+            }
+        ]
+    },
+    "CZK": {
+        "symbol": "Kč",
+        "name": "Czech Republic Koruna",
+        "symbol_native": "Kč",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "CZK",
+        "name_plural": "Czech Republic korunas",
+        "singleUnit": "Koruna",
+        "pluralUnit": "Korunas",
+        "subunit": "haléř",
+        "subunit_plural": "haléře",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 Kč",
+                "unit": "Koruna",
+                "spoken": "one Koruna"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 Kč",
+                "unit": "haléř",
+                "spoken": "fifty haléře"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 Kč",
+                "unit": "Korunas",
+                "spoken": "twenty-five Korunas and seventy-five haléře"
+            }
+        ]
+    },
+    "DJF": {
+        "symbol": "Fdj",
+        "name": "Djiboutian Franc",
+        "symbol_native": "Fdj",
+        "decimal_digits": 0,
+        "rounding": 0,
+        "code": "DJF",
+        "name_plural": "Djiboutian francs",
+        "singleUnit": "Franc",
+        "pluralUnit": "Francs",
+        "subunit": "centime",
+        "subunit_plural": "centimes",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 Fdj",
+                "unit": "Franc",
+                "spoken": "one Franc"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 Fdj",
+                "unit": "centime",
+                "spoken": "fifty centimes"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 Fdj",
+                "unit": "Francs",
+                "spoken": "twenty-five Francs and seventy-five centimes"
+            }
+        ]
+    },
+    "DKK": {
+        "symbol": "kr",
+        "name": "Danish Krone",
+        "symbol_native": "kr",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "DKK",
+        "name_plural": "Danish kroner",
+        "singleUnit": "Krone",
+        "pluralUnit": "Kroner",
+        "subunit": "øre",
+        "subunit_plural": "ører",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 kr",
+                "unit": "Krone",
+                "spoken": "one Krone"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 kr",
+                "unit": "øre",
+                "spoken": "fifty ører"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 kr",
+                "unit": "Kroner",
+                "spoken": "twenty-five Kroner and seventy-five ører"
+            }
+        ]
+    },
+    "DOP": {
+        "symbol": "RD$",
+        "name": "Dominican Peso",
+        "symbol_native": "RD$",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "DOP",
+        "name_plural": "Dominican pesos",
+        "singleUnit": "Peso",
+        "pluralUnit": "Pesos",
+        "subunit": "centavo",
+        "subunit_plural": "centavos",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 RD$",
+                "unit": "Peso",
+                "spoken": "one Peso"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 RD$",
+                "unit": "centavo",
+                "spoken": "fifty centavos"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 RD$",
+                "unit": "Pesos",
+                "spoken": "twenty-five Pesos and seventy-five centavos"
+            }
+        ]
+    },
+    "DZD": {
+        "symbol": "د.ج",
+        "name": "Algerian Dinar",
+        "symbol_native": "د.ج",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "DZD",
+        "name_plural": "Algerian dinars",
+        "singleUnit": "Dinar",
+        "pluralUnit": "Dinars",
+        "subunit": "centime",
+        "subunit_plural": "centimes",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 د.ج",
+                "unit": "Dinar",
+                "spoken": "one Dinar"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 د.ج",
+                "unit": "centime",
+                "spoken": "fifty centimes"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 د.ج",
+                "unit": "Dinars",
+                "spoken": "twenty-five Dinars and seventy-five centimes"
+            }
+        ]
+    },
+    "EGP": {
+        "symbol": "£",
+        "name": "Egyptian Pound",
+        "symbol_native": "£",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "EGP",
+        "name_plural": "Egyptian pounds",
+        "singleUnit": "Pound",
+        "pluralUnit": "Pounds",
+        "subunit": "piastre",
+        "subunit_plural": "piastres",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 £",
+                "unit": "Pound",
+                "spoken": "one Pound"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 £",
+                "unit": "piastre",
+                "spoken": "fifty piastres"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 £",
+                "unit": "Pounds",
+                "spoken": "twenty-five Pounds and seventy-five piastres"
+            }
+        ]
+    },
+    "ERN": {
+        "symbol": "Nfk",
+        "name": "Eritrean Nakfa",
+        "symbol_native": "Nfk",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "ERN",
+        "name_plural": "Eritrean nakfas",
+        "singleUnit": "Nakfa",
+        "pluralUnit": "Nakfas",
+        "subunit": "cent",
+        "subunit_plural": "cents",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 Nfk",
+                "unit": "Nakfa",
+                "spoken": "one Nakfa"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 Nfk",
+                "unit": "cent",
+                "spoken": "fifty cents"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 Nfk",
+                "unit": "Nakfas",
+                "spoken": "twenty-five Nakfas and seventy-five cents"
+            }
+        ]
+    },
+    "ETB": {
+        "symbol": "Br",
+        "name": "Ethiopian Birr",
+        "symbol_native": "Br",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "ETB",
+        "name_plural": "Ethiopian birrs",
+        "singleUnit": "Birr",
+        "pluralUnit": "Birrs",
+        "subunit": "santim",
+        "subunit_plural": "santims",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 Br",
+                "unit": "Birr",
+                "spoken": "one Birr"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 Br",
+                "unit": "santim",
+                "spoken": "fifty santims"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 Br",
+                "unit": "Birrs",
+                "spoken": "twenty-five Birrs and seventy-five santims"
+            }
+        ]
+    },
+    "EUR": {
+        "symbol": "€",
+        "name": "Euro",
+        "symbol_native": "€",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "EUR",
+        "name_plural": "euros",
+        "singleUnit": "Euro",
+        "pluralUnit": "Euros",
+        "subunit": "cent",
+        "subunit_plural": "cents",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 €",
+                "unit": "Euro",
+                "spoken": "one Euro"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 €",
+                "unit": "cent",
+                "spoken": "fifty cents"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 €",
+                "unit": "Euros",
+                "spoken": "twenty-five Euros and seventy-five cents"
+            }
+        ]
+    },
+    "FJD": {
+        "symbol": "$",
+        "name": "Fijian Dollar",
+        "symbol_native": "$",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "FJD",
+        "name_plural": "Fijian dollars",
+        "singleUnit": "Dollar",
+        "pluralUnit": "Dollars",
+        "subunit": "cent",
+        "subunit_plural": "cents",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 $",
+                "unit": "Dollar",
+                "spoken": "one Dollar"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 $",
+                "unit": "cent",
+                "spoken": "fifty cents"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 $",
+                "unit": "Dollars",
+                "spoken": "twenty-five Dollars and seventy-five cents"
+            }
+        ]
+    },
+    "FKP": {
+        "symbol": "£",
+        "name": "Falkland Islands Pound",
+        "symbol_native": "£",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "FKP",
+        "name_plural": "Falkland Islands pounds",
+        "singleUnit": "Pound",
+        "pluralUnit": "Pounds",
+        "subunit": "penny",
+        "subunit_plural": "pence",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 £",
+                "unit": "Pound",
+                "spoken": "one Pound"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 £",
+                "unit": "penny",
+                "spoken": "fifty pence"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 £",
+                "unit": "Pounds",
+                "spoken": "twenty-five Pounds and seventy-five pence"
+            }
+        ]
+    },
+    "GBP": {
+        "symbol": "£",
+        "name": "British Pound Sterling",
+        "symbol_native": "£",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "GBP",
+        "name_plural": "British pounds sterling",
+        "singleUnit": "Pound",
+        "pluralUnit": "Pounds",
+        "subunit": "penny",
+        "subunit_plural": "pence",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 £",
+                "unit": "Pound",
+                "spoken": "one Pound"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 £",
+                "unit": "penny",
+                "spoken": "fifty pence"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 £",
+                "unit": "Pounds",
+                "spoken": "twenty-five Pounds and seventy-five pence"
+            }
+        ]
+    },
+    "GEL": {
+        "symbol": "₾",
+        "name": "Georgian Lari",
+        "symbol_native": "₾",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "GEL",
+        "name_plural": "Georgian laris",
+        "singleUnit": "Lari",
+        "pluralUnit": "Laris",
+        "subunit": "tetri",
+        "subunit_plural": "tetri",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 ₾",
+                "unit": "Lari",
+                "spoken": "one Lari"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 ₾",
+                "unit": "tetri",
+                "spoken": "fifty tetri"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 ₾",
+                "unit": "Laris",
+                "spoken": "twenty-five Laris and seventy-five tetri"
+            }
+        ]
+    },
+    "GGP": {
+        "symbol": "£",
+        "name": "Guernsey Pound",
+        "symbol_native": "£",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "GGP",
+        "name_plural": "Guernsey pounds",
+        "singleUnit": "Pound",
+        "pluralUnit": "Pounds",
+        "subunit": "penny",
+        "subunit_plural": "pence",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 £",
+                "unit": "Pound",
+                "spoken": "one Pound"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 £",
+                "unit": "penny",
+                "spoken": "fifty pence"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 £",
+                "unit": "Pounds",
+                "spoken": "twenty-five Pounds and seventy-five pence"
+            }
+        ]
+    },
+    "GHS": {
+        "symbol": "GH₵",
+        "name": "Ghanaian Cedi",
+        "symbol_native": "GH₵",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "GHS",
+        "name_plural": "Ghanaian cedis",
+        "singleUnit": "Cedi",
+        "pluralUnit": "Cedis",
+        "subunit": "pesewa",
+        "subunit_plural": "pesewas",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 GH₵",
+                "unit": "Cedi",
+                "spoken": "one Cedi"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 GH₵",
+                "unit": "pesewa",
+                "spoken": "fifty pesewas"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 GH₵",
+                "unit": "Cedis",
+                "spoken": "twenty-five Cedis and seventy-five pesewas"
+            }
+        ]
+    },
+    "GIP": {
+        "symbol": "£",
+        "name": "Gibraltar Pound",
+        "symbol_native": "£",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "GIP",
+        "name_plural": "Gibraltar pounds",
+        "singleUnit": "Pound",
+        "pluralUnit": "Pounds",
+        "subunit": "penny",
+        "subunit_plural": "pence",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 £",
+                "unit": "Pound",
+                "spoken": "one Pound"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 £",
+                "unit": "penny",
+                "spoken": "fifty pence"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 £",
+                "unit": "Pounds",
+                "spoken": "twenty-five Pounds and seventy-five pence"
+            }
+        ]
+    },
+    "GMD": {
+        "symbol": "D",
+        "name": "Gambian Dalasi",
+        "symbol_native": "D",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "GMD",
+        "name_plural": "Gambian dalasis",
+        "singleUnit": "Dalasi",
+        "pluralUnit": "Dalasis",
+        "subunit": "butut",
+        "subunit_plural": "bututs",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 D",
+                "unit": "Dalasi",
+                "spoken": "one Dalasi"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 D",
+                "unit": "butut",
+                "spoken": "fifty bututs"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 D",
+                "unit": "Dalasis",
+                "spoken": "twenty-five Dalasis and seventy-five bututs"
+            }
+        ]
+    },
+    "GNF": {
+        "symbol": "FG",
+        "name": "Guinean Franc",
+        "symbol_native": "FG",
+        "decimal_digits": 0,
+        "rounding": 0,
+        "code": "GNF",
+        "name_plural": "Guinean francs",
+        "singleUnit": "Franc",
+        "pluralUnit": "Francs",
+        "subunit": "centime",
+        "subunit_plural": "centimes",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 FG",
+                "unit": "Franc",
+                "spoken": "one Franc"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 FG",
+                "unit": "centime",
+                "spoken": "fifty centimes"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 FG",
+                "unit": "Francs",
+                "spoken": "twenty-five Francs and seventy-five centimes"
+            }
+        ]
+    },
+    "GTQ": {
+        "symbol": "Q",
+        "name": "Guatemalan Quetzal",
+        "symbol_native": "Q",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "GTQ",
+        "name_plural": "Guatemalan quetzals",
+        "singleUnit": "Quetzal",
+        "pluralUnit": "Quetzals",
+        "subunit": "centavo",
+        "subunit_plural": "centavos",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 Q",
+                "unit": "Quetzal",
+                "spoken": "one Quetzal"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 Q",
+                "unit": "centavo",
+                "spoken": "fifty centavos"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 Q",
+                "unit": "Quetzals",
+                "spoken": "twenty-five Quetzals and seventy-five centavos"
+            }
+        ]
+    },
+    "GYD": {
+        "symbol": "$",
+        "name": "Guyanaese Dollar",
+        "symbol_native": "$",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "GYD",
+        "name_plural": "Guyanaese dollars",
+        "singleUnit": "Dollar",
+        "pluralUnit": "Dollars",
+        "subunit": "cent",
+        "subunit_plural": "cents",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 $",
+                "unit": "Dollar",
+                "spoken": "one Dollar"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 $",
+                "unit": "cent",
+                "spoken": "fifty cents"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 $",
+                "unit": "Dollars",
+                "spoken": "twenty-five Dollars and seventy-five cents"
+            }
+        ]
+    },
+    "HKD": {
+        "symbol": "$",
+        "name": "Hong Kong Dollar",
+        "symbol_native": "$",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "HKD",
+        "name_plural": "Hong Kong dollars",
+        "singleUnit": "Dollar",
+        "pluralUnit": "Dollars",
+        "subunit": "cent",
+        "subunit_plural": "cents",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 $",
+                "unit": "Dollar",
+                "spoken": "one Dollar"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 $",
+                "unit": "cent",
+                "spoken": "fifty cents"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 $",
+                "unit": "Dollars",
+                "spoken": "twenty-five Dollars and seventy-five cents"
+            }
+        ]
+    },
+    "HNL": {
+        "symbol": "L",
+        "name": "Honduran Lempira",
+        "symbol_native": "L",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "HNL",
+        "name_plural": "Honduran lempiras",
+        "singleUnit": "Lempira",
+        "pluralUnit": "Lempiras",
+        "subunit": "centavo",
+        "subunit_plural": "centavos",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 L",
+                "unit": "Lempira",
+                "spoken": "one Lempira"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 L",
+                "unit": "centavo",
+                "spoken": "fifty centavos"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 L",
+                "unit": "Lempiras",
+                "spoken": "twenty-five Lempiras and seventy-five centavos"
+            }
+        ]
+    },
+    "HRK": {
+        "symbol": "kn",
+        "name": "Croatian Kuna",
+        "symbol_native": "kn",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "HRK",
+        "name_plural": "Croatian kunas",
+        "singleUnit": "Kuna",
+        "pluralUnit": "Kunas",
+        "subunit": "lipa",
+        "subunit_plural": "lipe",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 kn",
+                "unit": "Kuna",
+                "spoken": "one Kuna"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 kn",
+                "unit": "lipa",
+                "spoken": "fifty lipe"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 kn",
+                "unit": "Kunas",
+                "spoken": "twenty-five Kunas and seventy-five lipe"
+            }
+        ]
+    },
+    "HTG": {
+        "symbol": "G",
+        "name": "Haitian Gourde",
+        "symbol_native": "G",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "HTG",
+        "name_plural": "Haitian gourdes",
+        "singleUnit": "Gourde",
+        "pluralUnit": "Gourdes",
+        "subunit": "centime",
+        "subunit_plural": "centimes",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 G",
+                "unit": "Gourde",
+                "spoken": "one Gourde"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 G",
+                "unit": "centime",
+                "spoken": "fifty centimes"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 G",
+                "unit": "Gourdes",
+                "spoken": "twenty-five Gourdes and seventy-five centimes"
+            }
+        ]
+    },
+    "HUF": {
+        "symbol": "Ft",
+        "name": "Hungarian Forint",
+        "symbol_native": "Ft",
+        "decimal_digits": 0,
+        "rounding": 0,
+        "code": "HUF",
+        "name_plural": "Hungarian forints",
+        "singleUnit": "Forint",
+        "pluralUnit": "Forints",
+        "subunit": "filler",
+        "subunit_plural": "fillers",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 Ft",
+                "unit": "Forint",
+                "spoken": "one Forint"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 Ft",
+                "unit": "filler",
+                "spoken": "fifty fillers"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 Ft",
+                "unit": "Forints",
+                "spoken": "twenty-five Forints and seventy-five fillers"
+            }
+        ]
+    },
+    "IDR": {
+        "symbol": "Rp",
+        "name": "Indonesian Rupiah",
+        "symbol_native": "Rp",
+        "decimal_digits": 0,
+        "rounding": 0,
+        "code": "IDR",
+        "name_plural": "Indonesian rupiahs",
+        "singleUnit": "Rupiah",
+        "pluralUnit": "Rupiahs",
+        "subunit": "sen",
+        "subunit_plural": "sen",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 Rp",
+                "unit": "Rupiah",
+                "spoken": "one Rupiah"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 Rp",
+                "unit": "sen",
+                "spoken": "fifty sen"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 Rp",
+                "unit": "Rupiahs",
+                "spoken": "twenty-five Rupiahs and seventy-five sen"
+            }
+        ]
+    },
+    "ILS": {
+        "symbol": "₪",
+        "name": "Israeli New Sheqel",
+        "symbol_native": "₪",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "ILS",
+        "name_plural": "Israeli new sheqalim",
+        "singleUnit": "New Sheqel",
+        "pluralUnit": "New Sheqalim",
+        "subunit": "agora",
+        "subunit_plural": "agorot",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 ₪",
+                "unit": "New Sheqel",
+                "spoken": "one New Sheqel"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 ₪",
+                "unit": "agora",
+                "spoken": "fifty agorot"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 ₪",
+                "unit": "New Sheqalim",
+                "spoken": "twenty-five New Sheqalim and seventy-five agorot"
+            }
+        ]
+    },
+    "IMP": {
+        "symbol": "£",
+        "name": "Manx pound",
+        "symbol_native": "£",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "IMP",
+        "name_plural": "Manx pounds",
+        "singleUnit": "Pound",
+        "pluralUnit": "Pounds",
+        "subunit": "penny",
+        "subunit_plural": "pence",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 £",
+                "unit": "Pound",
+                "spoken": "one Pound"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 £",
+                "unit": "penny",
+                "spoken": "fifty pence"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 £",
+                "unit": "Pounds",
+                "spoken": "twenty-five Pounds and seventy-five pence"
+            }
+        ]
+    },
+    "INR": {
+        "symbol": "₹",
+        "name": "Indian Rupee",
+        "symbol_native": "₹",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "INR",
+        "name_plural": "Indian rupees",
+        "singleUnit": "Rupee",
+        "pluralUnit": "Rupees",
+        "subunit": "paise",
+        "subunit_plural": "paise",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 ₹",
+                "unit": "Rupee",
+                "spoken": "one Rupee"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 ₹",
+                "unit": "paise",
+                "spoken": "fifty paise"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 ₹",
+                "unit": "Rupees",
+                "spoken": "twenty-five Rupees and seventy-five paise"
+            }
+        ]
+    },
+    "IQD": {
+        "symbol": "ع.د",
+        "name": "Iraqi Dinar",
+        "symbol_native": "ع.د",
+        "decimal_digits": 3,
+        "rounding": 0,
+        "code": "IQD",
+        "name_plural": "Iraqi dinars",
+        "singleUnit": "Dinar",
+        "pluralUnit": "Dinars",
+        "subunit": "fils",
+        "subunit_plural": "fils",
+        "examples": [
+            {
+                "amount": 1.000,
+                "formatted": "1.000 ع.د",
+                "unit": "Dinar",
+                "spoken": "one Dinar"
+            },
+            {
+                "amount": 0.500,
+                "formatted": "0.500 ع.د",
+                "unit": "fils",
+                "spoken": "fifty fils"
+            },
+            {
+                "amount": 25.750,
+                "formatted": "25.750 ع.د",
+                "unit": "Dinars",
+                "spoken": "twenty-five Dinars and seventy-five fils"
+            }
+        ]
+    },
+    "IRR": {
+        "symbol": "﷼",
+        "name": "Iranian Rial",
+        "symbol_native": "﷼",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "IRR",
+        "name_plural": "Iranian rials",
+        "singleUnit": "Rial",
+        "pluralUnit": "Rials",
+        "subunit": "dinar",
+        "subunit_plural": "dinars",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 ﷼",
+                "unit": "Rial",
+                "spoken": "one Rial"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 ﷼",
+                "unit": "dinar",
+                "spoken": "fifty dinars"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 ﷼",
+                "unit": "Rials",
+                "spoken": "twenty-five Rials and seventy-five dinars"
+            }
+        ]
+    },
+    "ISK": {
+        "symbol": "kr",
+        "name": "Icelandic Króna",
+        "symbol_native": "kr",
+        "decimal_digits": 0,
+        "rounding": 0,
+        "code": "ISK",
+        "name_plural": "Icelandic krónur",
+        "singleUnit": "Króna",
+        "pluralUnit": "Krónur",
+        "subunit": "aurar",
+        "subunit_plural": "aurar",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 kr",
+                "unit": "Króna",
+                "spoken": "one Króna"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 kr",
+                "unit": "aurar",
+                "spoken": "fifty aurar"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 kr",
+                "unit": "Krónur",
+                "spoken": "twenty-five Krónur and seventy-five aurar"
+            }
+        ]
+    },
+    "JEP": {
+        "symbol": "£",
+        "name": "Jersey Pound",
+        "symbol_native": "£",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "JEP",
+        "name_plural": "Jersey pounds",
+        "singleUnit": "Pound",
+        "pluralUnit": "Pounds",
+        "subunit": "penny",
+        "subunit_plural": "pence",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 £",
+                "unit": "Pound",
+                "spoken": "one Pound"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 £",
+                "unit": "penny",
+                "spoken": "fifty pence"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 £",
+                "unit": "Pounds",
+                "spoken": "twenty-five Pounds and seventy-five pence"
+            }
+        ]
+    },
+    "JMD": {
+        "symbol": "$",
+        "name": "Jamaican Dollar",
+        "symbol_native": "$",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "JMD",
+        "name_plural": "Jamaican dollars",
+        "singleUnit": "Dollar",
+        "pluralUnit": "Dollars",
+        "subunit": "cent",
+        "subunit_plural": "cents",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 $",
+                "unit": "Dollar",
+                "spoken": "one Dollar"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 $",
+                "unit": "cent",
+                "spoken": "fifty cents"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 $",
+                "unit": "Dollars",
+                "spoken": "twenty-five Dollars and seventy-five cents"
+            }
+        ]
+    },
+    "JOD": {
+        "symbol": "د.ا",
+        "name": "Jordanian Dinar",
+        "symbol_native": "د.ا",
+        "decimal_digits": 3,
+        "rounding": 0,
+        "code": "JOD",
+        "name_plural": "Jordanian dinars",
+        "singleUnit": "Dinar",
+        "pluralUnit": "Dinars",
+        "subunit": "piastre",
+        "subunit_plural": "piastres",
+        "examples": [
+            {
+                "amount": 1.000,
+                "formatted": "1.000 د.ا",
+                "unit": "Dinar",
+                "spoken": "one Dinar"
+            },
+            {
+                "amount": 0.500,
+                "formatted": "0.500 د.ا",
+                "unit": "piastre",
+                "spoken": "fifty piastres"
+            },
+            {
+                "amount": 25.750,
+                "formatted": "25.750 د.ا",
+                "unit": "Dinars",
+                "spoken": "twenty-five Dinars and seventy-five piastres"
+            }
+        ]
+    },
+    "JPY": {
+        "symbol": "¥",
+        "name": "Japanese Yen",
+        "symbol_native": "¥",
+        "decimal_digits": 0,
+        "rounding": 0,
+        "code": "JPY",
+        "name_plural": "Japanese yen",
+        "singleUnit": "Yen",
+        "pluralUnit": "Yen",
+        "subunit": "sen",
+        "subunit_plural": "sen",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 ¥",
+                "unit": "Yen",
+                "spoken": "one Yen"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 ¥",
+                "unit": "sen",
+                "spoken": "fifty sen"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 ¥",
+                "unit": "Yen",
+                "spoken": "twenty-five Yen and seventy-five sen"
+            }
+        ]
+    },
+    "KES": {
+        "symbol": "KSh",
+        "name": "Kenyan Shilling",
+        "symbol_native": "KSh",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "KES",
+        "name_plural": "Kenyan shillings",
+        "singleUnit": "Shilling",
+        "pluralUnit": "Shillings",
+        "subunit": "cent",
+        "subunit_plural": "cents",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 KSh",
+                "unit": "Shilling",
+                "spoken": "one Shilling"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 KSh",
+                "unit": "cent",
+                "spoken": "fifty cents"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 KSh",
+                "unit": "Shillings",
+                "spoken": "twenty-five Shillings and seventy-five cents"
+            }
+        ]
+    },
+    "KGS": {
+        "symbol": "лв",
+        "name": "Kyrgystani Som",
+        "symbol_native": "лв",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "KGS",
+        "name_plural": "Kyrgystani soms",
+        "singleUnit": "Som",
+        "pluralUnit": "Soms",
+        "subunit": "tyiyn",
+        "subunit_plural": "tyiyn",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 лв",
+                "unit": "Som",
+                "spoken": "one Som"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 лв",
+                "unit": "tyiyn",
+                "spoken": "fifty tyiyn"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 лв",
+                "unit": "Soms",
+                "spoken": "twenty-five Soms and seventy-five tyiyn"
+            }
+        ]
+    },
+    "KHR": {
+        "symbol": "៛",
+        "name": "Cambodian Riel",
+        "symbol_native": "៛",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "KHR",
+        "name_plural": "Cambodian riels",
+        "singleUnit": "Riel",
+        "pluralUnit": "Riels",
+        "subunit": "sen",
+        "subunit_plural": "sen",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 ៛",
+                "unit": "Riel",
+                "spoken": "one Riel"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 ៛",
+                "unit": "sen",
+                "spoken": "fifty sen"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 ៛",
+                "unit": "Riels",
+                "spoken": "twenty-five Riels and seventy-five sen"
+            }
+        ]
+    },
+    "KMF": {
+        "symbol": "CF",
+        "name": "Comorian Franc",
+        "symbol_native": "CF",
+        "decimal_digits": 0,
+        "rounding": 0,
+        "code": "KMF",
+        "name_plural": "Comorian francs",
+        "singleUnit": "Franc",
+        "pluralUnit": "Francs",
+        "subunit": "centime",
+        "subunit_plural": "centimes",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 CF",
+                "unit": "Franc",
+                "spoken": "one Franc"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 CF",
+                "unit": "centime",
+                "spoken": "fifty centimes"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 CF",
+                "unit": "Francs",
+                "spoken": "twenty-five Francs and seventy-five centimes"
+            }
+        ]
+    },
+    "KPW": {
+        "symbol": "₩",
+        "name": "North Korean Won",
+        "symbol_native": "₩",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "KPW",
+        "name_plural": "North Korean won",
+        "singleUnit": "Won",
+        "pluralUnit": "Won",
+        "subunit": "chon",
+        "subunit_plural": "chon",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 ₩",
+                "unit": "Won",
+                "spoken": "one Won"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 ₩",
+                "unit": "chon",
+                "spoken": "fifty chon"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 ₩",
+                "unit": "Won",
+                "spoken": "twenty-five Won and seventy-five chon"
+            }
+        ]
+    },
+    "KRW": {
+        "symbol": "₩",
+        "name": "South Korean Won",
+        "symbol_native": "₩",
+        "decimal_digits": 0,
+        "rounding": 0,
+        "code": "KRW",
+        "name_plural": "South Korean won",
+        "singleUnit": "Won",
+        "pluralUnit": "Won",
+        "subunit": "jeon",
+        "subunit_plural": "jeon",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 ₩",
+                "unit": "Won",
+                "spoken": "one Won"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 ₩",
+                "unit": "jeon",
+                "spoken": "fifty jeon"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 ₩",
+                "unit": "Won",
+                "spoken": "twenty-five Won and seventy-five jeon"
+            }
+        ]
+    },
+    "KWD": {
+        "symbol": "د.ك",
+        "name": "Kuwaiti Dinar",
+        "symbol_native": "د.ك",
+        "decimal_digits": 3,
+        "rounding": 0,
+        "code": "KWD",
+        "name_plural": "Kuwaiti dinars",
+        "singleUnit": "Dinar",
+        "pluralUnit": "Dinars",
+        "subunit": "fils",
+        "subunit_plural": "fils",
+        "examples": [
+            {
+                "amount": 1.000,
+                "formatted": "1.000 د.ك",
+                "unit": "Dinar",
+                "spoken": "one Dinar"
+            },
+            {
+                "amount": 0.500,
+                "formatted": "0.500 د.ك",
+                "unit": "fils",
+                "spoken": "fifty fils"
+            },
+            {
+                "amount": 25.750,
+                "formatted": "25.750 د.ك",
+                "unit": "Dinars",
+                "spoken": "twenty-five Dinars and seventy-five fils"
+            }
+        ]
+    },
+    "KYD": {
+        "symbol": "$",
+        "name": "Cayman Islands Dollar",
+        "symbol_native": "$",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "KYD",
+        "name_plural": "Cayman Islands dollars",
+        "singleUnit": "Dollar",
+        "pluralUnit": "Dollars",
+        "subunit": "cent",
+        "subunit_plural": "cents",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 $",
+                "unit": "Dollar",
+                "spoken": "one Dollar"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 $",
+                "unit": "cent",
+                "spoken": "fifty cents"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 $",
+                "unit": "Dollars",
+                "spoken": "twenty-five Dollars and seventy-five cents"
+            }
+        ]
+    },
+    "KZT": {
+        "symbol": "₸",
+        "name": "Kazakhstani Tenge",
+        "symbol_native": "₸",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "KZT",
+        "name_plural": "Kazakhstani tenges",
+        "singleUnit": "Tenge",
+        "pluralUnit": "Tenges",
+        "subunit": "tiyin",
+        "subunit_plural": "tiyin",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 ₸",
+                "unit": "Tenge",
+                "spoken": "one Tenge"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 ₸",
+                "unit": "tiyin",
+                "spoken": "fifty tiyin"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 ₸",
+                "unit": "Tenges",
+                "spoken": "twenty-five Tenges and seventy-five tiyin"
+            }
+        ]
+    },
+    "LAK": {
+        "symbol": "₭",
+        "name": "Laotian Kip",
+        "symbol_native": "₭",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "LAK",
+        "name_plural": "Laotian kip",
+        "singleUnit": "Kip",
+        "pluralUnit": "Kip",
+        "subunit": "att",
+        "subunit_plural": "att",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 ₭",
+                "unit": "Kip",
+                "spoken": "one Kip"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 ₭",
+                "unit": "att",
+                "spoken": "fifty att"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 ₭",
+                "unit": "Kip",
+                "spoken": "twenty-five Kip and seventy-five att"
+            }
+        ]
+    },
+    "LBP": {
+        "symbol": "ل.ل",
+        "name": "Lebanese Pound",
+        "symbol_native": "ل.ل",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "LBP",
+        "name_plural": "Lebanese pounds",
+        "singleUnit": "Pound",
+        "pluralUnit": "Pounds",
+        "subunit": "piastre",
+        "subunit_plural": "piastres",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 ل.ل",
+                "unit": "Pound",
+                "spoken": "one Pound"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 ل.ل",
+                "unit": "piastre",
+                "spoken": "fifty piastres"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 ل.ل",
+                "unit": "Pounds",
+                "spoken": "twenty-five Pounds and seventy-five piastres"
+            }
+        ]
+    },
+    "LKR": {
+        "symbol": "Rs",
+        "name": "Sri Lankan Rupee",
+        "symbol_native": "Rs",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "LKR",
+        "name_plural": "Sri Lankan rupees",
+        "singleUnit": "Rupee",
+        "pluralUnit": "Rupees",
+        "subunit": "cent",
+        "subunit_plural": "cents",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 Rs",
+                "unit": "Rupee",
+                "spoken": "one Rupee"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 Rs",
+                "unit": "cent",
+                "spoken": "fifty cents"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 Rs",
+                "unit": "Rupees",
+                "spoken": "twenty-five Rupees and seventy-five cents"
+            }
+        ]
+    },
+    "LRD": {
+        "symbol": "$",
+        "name": "Liberian Dollar",
+        "symbol_native": "$",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "LRD",
+        "name_plural": "Liberian dollars",
+        "singleUnit": "Dollar",
+        "pluralUnit": "Dollars",
+        "subunit": "cent",
+        "subunit_plural": "cents",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 $",
+                "unit": "Dollar",
+                "spoken": "one Dollar"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 $",
+                "unit": "cent",
+                "spoken": "fifty cents"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 $",
+                "unit": "Dollars",
+                "spoken": "twenty-five Dollars and seventy-five cents"
+            }
+        ]
+    },
+    "LSL": {
+        "symbol": "L",
+        "name": "Lesotho Loti",
+        "symbol_native": "L",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "LSL",
+        "name_plural": "Lesotho lotis",
+        "singleUnit": "Loti",
+        "pluralUnit": "Lotis",
+        "subunit": "sente",
+        "subunit_plural": "sente",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 L",
+                "unit": "Loti",
+                "spoken": "one Loti"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 L",
+                "unit": "sente",
+                "spoken": "fifty sente"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 L",
+                "unit": "Lotis",
+                "spoken": "twenty-five Lotis and seventy-five sente"
+            }
+        ]
+    },
+    "LYD": {
+        "symbol": "ل.د",
+        "name": "Libyan Dinar",
+        "symbol_native": "ل.د",
+        "decimal_digits": 3,
+        "rounding": 0,
+        "code": "LYD",
+        "name_plural": "Libyan dinars",
+        "singleUnit": "Dinar",
+        "pluralUnit": "Dinars",
+        "subunit": "dirham",
+        "subunit_plural": "dirhams",
+        "examples": [
+            {
+                "amount": 1.000,
+                "formatted": "1.000 ل.د",
+                "unit": "Dinar",
+                "spoken": "one Dinar"
+            },
+            {
+                "amount": 0.500,
+                "formatted": "0.500 ل.د",
+                "unit": "dirham",
+                "spoken": "fifty dirhams"
+            },
+            {
+                "amount": 25.750,
+                "formatted": "25.750 ل.د",
+                "unit": "Dinars",
+                "spoken": "twenty-five Dinars and seventy-five dirhams"
+            }
+        ]
+    },
+    "MAD": {
+        "symbol": "د.م.",
+        "name": "Moroccan Dirham",
+        "symbol_native": "د.م.",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "MAD",
+        "name_plural": "Moroccan dirhams",
+        "singleUnit": "Dirham",
+        "pluralUnit": "Dirhams",
+        "subunit": "centime",
+        "subunit_plural": "centimes",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 د.م.",
+                "unit": "Dirham",
+                "spoken": "one Dirham"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 د.م.",
+                "unit": "centime",
+                "spoken": "fifty centimes"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 د.م.",
+                "unit": "Dirhams",
+                "spoken": "twenty-five Dirhams and seventy-five centimes"
+            }
+        ]
+    },
+    "MDL": {
+        "symbol": "L",
+        "name": "Moldovan Leu",
+        "symbol_native": "L",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "MDL",
+        "name_plural": "Moldovan lei",
+        "singleUnit": "Leu",
+        "pluralUnit": "Lei",
+        "subunit": "ban",
+        "subunit_plural": "bani",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 L",
+                "unit": "Leu",
+                "spoken": "one Leu"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 L",
+                "unit": "ban",
+                "spoken": "fifty bani"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 L",
+                "unit": "Lei",
+                "spoken": "twenty-five Lei and seventy-five bani"
+            }
+        ]
+    },
+    "MGA": {
+        "symbol": "Ar",
+        "name": "Malagasy Ariary",
+        "symbol_native": "Ar",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "MGA",
+        "name_plural": "Malagasy ariarys",
+        "singleUnit": "Ariary",
+        "pluralUnit": "Ariarys",
+        "subunit": "iraimbilanja",
+        "subunit_plural": "iraimbilanja",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 Ar",
+                "unit": "Ariary",
+                "spoken": "one Ariary"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 Ar",
+                "unit": "iraimbilanja",
+                "spoken": "fifty iraimbilanja"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 Ar",
+                "unit": "Ariarys",
+                "spoken": "twenty-five Ariarys and seventy-five iraimbilanja"
+            }
+        ]
+    },
+    "MKD": {
+        "symbol": "ден",
+        "name": "Macedonian Denar",
+        "symbol_native": "ден",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "MKD",
+        "name_plural": "Macedonian denari",
+        "singleUnit": "Denar",
+        "pluralUnit": "Denari",
+        "subunit": "deni",
+        "subunit_plural": "deni",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 ден",
+                "unit": "Denar",
+                "spoken": "one Denar"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 ден",
+                "unit": "deni",
+                "spoken": "fifty deni"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 ден",
+                "unit": "Denari",
+                "spoken": "twenty-five Denari and seventy-five deni"
+            }
+        ]
+    },
+    "MMK": {
+        "symbol": "K",
+        "name": "Myanma Kyat",
+        "symbol_native": "K",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "MMK",
+        "name_plural": "Myanma kyats",
+        "singleUnit": "Kyat",
+        "pluralUnit": "Kyats",
+        "subunit": "pya",
+        "subunit_plural": "pya",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 K",
+                "unit": "Kyat",
+                "spoken": "one Kyat"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 K",
+                "unit": "pya",
+                "spoken": "fifty pya"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 K",
+                "unit": "Kyats",
+                "spoken": "twenty-five Kyats and seventy-five pya"
+            }
+        ]
+    },
+    "MNT": {
+        "symbol": "₮",
+        "name": "Mongolian Tugrik",
+        "symbol_native": "₮",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "MNT",
+        "name_plural": "Mongolian tugriks",
+        "singleUnit": "Tugrik",
+        "pluralUnit": "Tugriks",
+        "subunit": "möngö",
+        "subunit_plural": "möngö",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 ₮",
+                "unit": "Tugrik",
+                "spoken": "one Tugrik"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 ₮",
+                "unit": "möngö",
+                "spoken": "fifty möngö"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 ₮",
+                "unit": "Tugriks",
+                "spoken": "twenty-five Tugriks and seventy-five möngö"
+            }
+        ]
+    },
+    "MOP": {
+        "symbol": "MOP$",
+        "name": "Macanese Pataca",
+        "symbol_native": "MOP$",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "MOP",
+        "name_plural": "Macanese patacas",
+        "singleUnit": "Pataca",
+        "pluralUnit": "Patacas",
+        "subunit": "avo",
+        "subunit_plural": "avos",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 MOP$",
+                "unit": "Pataca",
+                "spoken": "one Pataca"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 MOP$",
+                "unit": "avo",
+                "spoken": "fifty avos"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 MOP$",
+                "unit": "Patacas",
+                "spoken": "twenty-five Patacas and seventy-five avos"
+            }
+        ]
+    },
+    "MRU": {
+        "symbol": "UM",
+        "name": "Mauritanian Ouguiya",
+        "symbol_native": "UM",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "MRU",
+        "name_plural": "Mauritanian ouguiyas",
+        "singleUnit": "Ouguiya",
+        "pluralUnit": "Ouguiyas",
+        "subunit": "khoums",
+        "subunit_plural": "khoums",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 UM",
+                "unit": "Ouguiya",
+                "spoken": "one Ouguiya"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 UM",
+                "unit": "khoums",
+                "spoken": "fifty khoums"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 UM",
+                "unit": "Ouguiyas",
+                "spoken": "twenty-five Ouguiyas and seventy-five khoums"
+            }
+        ]
+    },
+    "MUR": {
+        "symbol": "₨",
+        "name": "Mauritian Rupee",
+        "symbol_native": "₨",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "MUR",
+        "name_plural": "Mauritian rupees",
+        "singleUnit": "Rupee",
+        "pluralUnit": "Rupees",
+        "subunit": "cent",
+        "subunit_plural": "cents",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 ₨",
+                "unit": "Rupee",
+                "spoken": "one Rupee"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 ₨",
+                "unit": "cent",
+                "spoken": "fifty cents"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 ₨",
+                "unit": "Rupees",
+                "spoken": "twenty-five Rupees and seventy-five cents"
+            }
+        ]
+    },
+    "MVR": {
+        "symbol": "Rf",
+        "name": "Maldivian Rufiyaa",
+        "symbol_native": "Rf",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "MVR",
+        "name_plural": "Maldivian rufiyaas",
+        "singleUnit": "Rufiyaa",
+        "pluralUnit": "Rufiyaas",
+        "subunit": "laari",
+        "subunit_plural": "laari",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 Rf",
+                "unit": "Rufiyaa",
+                "spoken": "one Rufiyaa"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 Rf",
+                "unit": "laari",
+                "spoken": "fifty laari"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 Rf",
+                "unit": "Rufiyaas",
+                "spoken": "twenty-five Rufiyaas and seventy-five laari"
+            }
+        ]
+    },
+    "MWK": {
+        "symbol": "MK",
+        "name": "Malawian Kwacha",
+        "symbol_native": "MK",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "MWK",
+        "name_plural": "Malawian kwachas",
+        "singleUnit": "Kwacha",
+        "pluralUnit": "Kwachas",
+        "subunit": "tambala",
+        "subunit_plural": "tambala",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 MK",
+                "unit": "Kwacha",
+                "spoken": "one Kwacha"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 MK",
+                "unit": "tambala",
+                "spoken": "fifty tambala"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 MK",
+                "unit": "Kwachas",
+                "spoken": "twenty-five Kwachas and seventy-five tambala"
+            }
+        ]
+    },
+    "MXN": {
+        "symbol": "$",
+        "name": "Mexican Peso",
+        "symbol_native": "$",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "MXN",
+        "name_plural": "Mexican pesos",
+        "singleUnit": "Peso",
+        "pluralUnit": "Pesos",
+        "subunit": "centavo",
+        "subunit_plural": "centavos",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 $",
+                "unit": "Peso",
+                "spoken": "one Peso"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 $",
+                "unit": "centavo",
+                "spoken": "fifty centavos"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 $",
+                "unit": "Pesos",
+                "spoken": "twenty-five Pesos and seventy-five centavos"
+            }
+        ]
+    },
+    "MYR": {
+        "symbol": "RM",
+        "name": "Malaysian Ringgit",
+        "symbol_native": "RM",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "MYR",
+        "name_plural": "Malaysian ringgits",
+        "singleUnit": "Ringgit",
+        "pluralUnit": "Ringgits",
+        "subunit": "sen",
+        "subunit_plural": "sen",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 RM",
+                "unit": "Ringgit",
+                "spoken": "one Ringgit"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 RM",
+                "unit": "sen",
+                "spoken": "fifty sen"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 RM",
+                "unit": "Ringgits",
+                "spoken": "twenty-five Ringgits and seventy-five sen"
+            }
+        ]
+    },
+    "MZN": {
+        "symbol": "MT",
+        "name": "Mozambican Metical",
+        "symbol_native": "MT",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "MZN",
+        "name_plural": "Mozambican meticals",
+        "singleUnit": "Metical",
+        "pluralUnit": "Meticals",
+        "subunit": "centavo",
+        "subunit_plural": "centavos",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 MT",
+                "unit": "Metical",
+                "spoken": "one Metical"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 MT",
+                "unit": "centavo",
+                "spoken": "fifty centavos"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 MT",
+                "unit": "Meticals",
+                "spoken": "twenty-five Meticals and seventy-five centavos"
+            }
+        ]
+    },
+    "NAD": {
+        "symbol": "$",
+        "name": "Namibian Dollar",
+        "symbol_native": "$",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "NAD",
+        "name_plural": "Namibian dollars",
+        "singleUnit": "Dollar",
+        "pluralUnit": "Dollars",
+        "subunit": "cent",
+        "subunit_plural": "cents",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 $",
+                "unit": "Dollar",
+                "spoken": "one Dollar"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 $",
+                "unit": "cent",
+                "spoken": "fifty cents"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 $",
+                "unit": "Dollars",
+                "spoken": "twenty-five Dollars and seventy-five cents"
+            }
+        ]
+    },
+    "NGN": {
+        "symbol": "₦",
+        "name": "Nigerian Naira",
+        "symbol_native": "₦",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "NGN",
+        "name_plural": "Nigerian nairas",
+        "singleUnit": "Naira",
+        "pluralUnit": "Nairas",
+        "subunit": "kobo",
+        "subunit_plural": "kobo",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 ₦",
+                "unit": "Naira",
+                "spoken": "one Naira"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 ₦",
+                "unit": "kobo",
+                "spoken": "fifty kobo"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 ₦",
+                "unit": "Nairas",
+                "spoken": "twenty-five Nairas and seventy-five kobo"
+            }
+        ]
+    },
+    "NIO": {
+        "symbol": "C$",
+        "name": "Nicaraguan Córdoba",
+        "symbol_native": "C$",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "NIO",
+        "name_plural": "Nicaraguan córdobas",
+        "singleUnit": "Córdoba",
+        "pluralUnit": "Córdobas",
+        "subunit": "centavo",
+        "subunit_plural": "centavos",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 C$",
+                "unit": "Córdoba",
+                "spoken": "one Córdoba"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 C$",
+                "unit": "centavo",
+                "spoken": "fifty centavos"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 C$",
+                "unit": "Córdobas",
+                "spoken": "twenty-five Córdobas and seventy-five centavos"
+            }
+        ]
+    },
+    "NOK": {
+        "symbol": "kr",
+        "name": "Norwegian Krone",
+        "symbol_native": "kr",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "NOK",
+        "name_plural": "Norwegian kroner",
+        "singleUnit": "Krone",
+        "pluralUnit": "Kroner",
+        "subunit": "øre",
+        "subunit_plural": "ører",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 kr",
+                "unit": "Krone",
+                "spoken": "one Krone"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 kr",
+                "unit": "øre",
+                "spoken": "fifty ører"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 kr",
+                "unit": "Kroner",
+                "spoken": "twenty-five Kroner and seventy-five ører"
+            }
+        ]
+    },
+    "NPR": {
+        "symbol": "₨",
+        "name": "Nepalese Rupee",
+        "symbol_native": "₨",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "NPR",
+        "name_plural": "Nepalese rupees",
+        "singleUnit": "Rupee",
+        "pluralUnit": "Rupees",
+        "subunit": "paisa",
+        "subunit_plural": "paisa",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 ₨",
+                "unit": "Rupee",
+                "spoken": "one Rupee"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 ₨",
+                "unit": "paisa",
+                "spoken": "fifty paisa"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 ₨",
+                "unit": "Rupees",
+                "spoken": "twenty-five Rupees and seventy-five paisa"
+            }
+        ]
+    },
+    "NZD": {
+        "symbol": "$",
+        "name": "New Zealand Dollar",
+        "symbol_native": "$",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "NZD",
+        "name_plural": "New Zealand dollars",
+        "singleUnit": "Dollar",
+        "pluralUnit": "Dollars",
+        "subunit": "cent",
+        "subunit_plural": "cents",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 $",
+                "unit": "Dollar",
+                "spoken": "one Dollar"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 $",
+                "unit": "cent",
+                "spoken": "fifty cents"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 $",
+                "unit": "Dollars",
+                "spoken": "twenty-five Dollars and seventy-five cents"
+            }
+        ]
+    },
+    "OMR": {
+        "symbol": "ر.ع.",
+        "name": "Omani Rial",
+        "symbol_native": "ر.ع.",
+        "decimal_digits": 3,
+        "rounding": 0,
+        "code": "OMR",
+        "name_plural": "Omani rials",
+        "singleUnit": "Rial",
+        "pluralUnit": "Rials",
+        "subunit": "baisa",
+        "subunit_plural": "baisa",
+        "examples": [
+            {
+                "amount": 1.000,
+                "formatted": "1.000 ر.ع.",
+                "unit": "Rial",
+                "spoken": "one Rial"
+            },
+            {
+                "amount": 0.500,
+                "formatted": "0.500 ر.ع.",
+                "unit": "baisa",
+                "spoken": "fifty baisa"
+            },
+            {
+                "amount": 25.750,
+                "formatted": "25.750 ر.ع.",
+                "unit": "Rials",
+                "spoken": "twenty-five Rials and seventy-five baisa"
+            }
+        ]
+    },
+    "PAB": {
+        "symbol": "B/.",
+        "name": "Panamanian Balboa",
+        "symbol_native": "B/.",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "PAB",
+        "name_plural": "Panamanian balboas",
+        "singleUnit": "Balboa",
+        "pluralUnit": "Balboas",
+        "subunit": "centésimo",
+        "subunit_plural": "centésimos",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 B/.",
+                "unit": "Balboa",
+                "spoken": "one Balboa"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 B/.",
+                "unit": "centésimo",
+                "spoken": "fifty centésimos"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 B/.",
+                "unit": "Balboas",
+                "spoken": "twenty-five Balboas and seventy-five centésimos"
+            }
+        ]
+    },
+    "PEN": {
+        "symbol": "S/",
+        "name": "Peruvian Nuevo Sol",
+        "symbol_native": "S/",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "PEN",
+        "name_plural": "Peruvian nuevos soles",
+        "singleUnit": "Nuevo Sol",
+        "pluralUnit": "Nuevos Soles",
+        "subunit": "céntimo",
+        "subunit_plural": "céntimos",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 S/",
+                "unit": "Nuevo Sol",
+                "spoken": "one Nuevo Sol"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 S/",
+                "unit": "céntimo",
+                "spoken": "fifty céntimos"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 S/",
+                "unit": "Nuevos Soles",
+                "spoken": "twenty-five Nuevos Soles and seventy-five céntimos"
+            }
+        ]
+    },
+    "PGK": {
+        "symbol": "K",
+        "name": "Papua New Guinean Kina",
+        "symbol_native": "K",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "PGK",
+        "name_plural": "Papua New Guinean kina",
+        "singleUnit": "Kina",
+        "pluralUnit": "Kina",
+        "subunit": "toea",
+        "subunit_plural": "toea",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 K",
+                "unit": "Kina",
+                "spoken": "one Kina"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 K",
+                "unit": "toea",
+                "spoken": "fifty toea"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 K",
+                "unit": "Kina",
+                "spoken": "twenty-five Kina and seventy-five toea"
+            }
+        ]
+    },
+    "PHP": {
+        "symbol": "₱",
+        "name": "Philippine Peso",
+        "symbol_native": "₱",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "PHP",
+        "name_plural": "Philippine pesos",
+        "singleUnit": "Peso",
+        "pluralUnit": "Pesos",
+        "subunit": "centavo",
+        "subunit_plural": "centavos",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 ₱",
+                "unit": "Peso",
+                "spoken": "one Peso"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 ₱",
+                "unit": "centavo",
+                "spoken": "fifty centavos"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 ₱",
+                "unit": "Pesos",
+                "spoken": "twenty-five Pesos and seventy-five centavos"
+            }
+        ]
+    },
+    "PKR": {
+        "symbol": "₨",
+        "name": "Pakistani Rupee",
+        "symbol_native": "₨",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "PKR",
+        "name_plural": "Pakistani rupees",
+        "singleUnit": "Rupee",
+        "pluralUnit": "Rupees",
+        "subunit": "paise",
+        "subunit_plural": "paise",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 ₨",
+                "unit": "Rupee",
+                "spoken": "one Rupee"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 ₨",
+                "unit": "paise",
+                "spoken": "fifty paise"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 ₨",
+                "unit": "Rupees",
+                "spoken": "twenty-five Rupees and seventy-five paise"
+            }
+        ]
+    },
+    "PLN": {
+        "symbol": "zł",
+        "name": "Polish Zloty",
+        "symbol_native": "zł",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "PLN",
+        "name_plural": "Polish zlotys",
+        "singleUnit": "Zloty",
+        "pluralUnit": "Zlotys",
+        "subunit": "grosz",
+        "subunit_plural": "groszy",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 zł",
+                "unit": "Zloty",
+                "spoken": "one Zloty"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 zł",
+                "unit": "grosz",
+                "spoken": "fifty groszy"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 zł",
+                "unit": "Zlotys",
+                "spoken": "twenty-five Zlotys and seventy-five groszy"
+            }
+        ]
+    },
+    "PYG": {
+        "symbol": "₲",
+        "name": "Paraguayan Guarani",
+        "symbol_native": "₲",
+        "decimal_digits": 0,
+        "rounding": 0,
+        "code": "PYG",
+        "name_plural": "Paraguayan guaranis",
+        "singleUnit": "Guarani",
+        "pluralUnit": "Guaranis",
+        "subunit": "centimo",
+        "subunit_plural": "centimos",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 ₲",
+                "unit": "Guarani",
+                "spoken": "one Guarani"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 ₲",
+                "unit": "centimo",
+                "spoken": "fifty centimos"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 ₲",
+                "unit": "Guaranis",
+                "spoken": "twenty-five Guaranis and seventy-five centimos"
+            }
+        ]
+    },
+    "QAR": {
+        "symbol": "ر.ق",
+        "name": "Qatari Rial",
+        "symbol_native": "ر.ق",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "QAR",
+        "name_plural": "Qatari rials",
+        "singleUnit": "Rial",
+        "pluralUnit": "Rials",
+        "subunit": "dirham",
+        "subunit_plural": "dirhams",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 ر.ق",
+                "unit": "Rial",
+                "spoken": "one Rial"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 ر.ق",
+                "unit": "dirham",
+                "spoken": "fifty dirhams"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 ر.ق",
+                "unit": "Rials",
+                "spoken": "twenty-five Rials and seventy-five dirhams"
+            }
+        ]
+    },
+    "RON": {
+        "symbol": "lei",
+        "name": "Romanian Leu",
+        "symbol_native": "lei",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "RON",
+        "name_plural": "Romanian lei",
+        "singleUnit": "Leu",
+        "pluralUnit": "Lei",
+        "subunit": "ban",
+        "subunit_plural": "bani",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 lei",
+                "unit": "Leu",
+                "spoken": "one Leu"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 lei",
+                "unit": "ban",
+                "spoken": "fifty bani"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 lei",
+                "unit": "Lei",
+                "spoken": "twenty-five Lei and seventy-five bani"
+            }
+        ]
+    },
+    "RSD": {
+        "symbol": "дин.",
+        "name": "Serbian Dinar",
+        "symbol_native": "дин.",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "RSD",
+        "name_plural": "Serbian dinars",
+        "singleUnit": "Dinar",
+        "pluralUnit": "Dinars",
+        "subunit": "para",
+        "subunit_plural": "para",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 дин.",
+                "unit": "Dinar",
+                "spoken": "one Dinar"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 дин.",
+                "unit": "para",
+                "spoken": "fifty para"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 дин.",
+                "unit": "Dinars",
+                "spoken": "twenty-five Dinars and seventy-five para"
+            }
+        ]
+    },
+    "RUB": {
+        "symbol": "₽",
+        "name": "Russian Ruble",
+        "symbol_native": "₽",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "RUB",
+        "name_plural": "Russian rubles",
+        "singleUnit": "Ruble",
+        "pluralUnit": "Rubles",
+        "subunit": "kopek",
+        "subunit_plural": "kopeks",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 ₽",
+                "unit": "Ruble",
+                "spoken": "one Ruble"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 ₽",
+                "unit": "kopek",
+                "spoken": "fifty kopeks"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 ₽",
+                "unit": "Rubles",
+                "spoken": "twenty-five Rubles and seventy-five kopeks"
+            }
+        ]
+    },
+    "RWF": {
+        "symbol": "FRw",
+        "name": "Rwandan Franc",
+        "symbol_native": "FRw",
+        "decimal_digits": 0,
+        "rounding": 0,
+        "code": "RWF",
+        "name_plural": "Rwandan francs",
+        "singleUnit": "Franc",
+        "pluralUnit": "Francs",
+        "subunit": "centime",
+        "subunit_plural": "centimes",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 FRw",
+                "unit": "Franc",
+                "spoken": "one Franc"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 FRw",
+                "unit": "centime",
+                "spoken": "fifty centimes"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 FRw",
+                "unit": "Francs",
+                "spoken": "twenty-five Francs and seventy-five centimes"
+            }
+        ]
+    },
+    "SAR": {
+        "symbol": "ر.س",
+        "name": "Saudi Riyal",
+        "symbol_native": "ر.س",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "SAR",
+        "name_plural": "Saudi riyals",
+        "singleUnit": "Riyal",
+        "pluralUnit": "Riyals",
+        "subunit": "halala",
+        "subunit_plural": "halalas",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 ر.س",
+                "unit": "Riyal",
+                "spoken": "one Riyal"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 ر.س",
+                "unit": "halala",
+                "spoken": "fifty halalas"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 ر.س",
+                "unit": "Riyals",
+                "spoken": "twenty-five Riyals and seventy-five halalas"
+            }
+        ]
+    },
+    "SBD": {
+        "symbol": "$",
+        "name": "Solomon Islands Dollar",
+        "symbol_native": "$",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "SBD",
+        "name_plural": "Solomon Islands dollars",
+        "singleUnit": "Dollar",
+        "pluralUnit": "Dollars",
+        "subunit": "cent",
+        "subunit_plural": "cents",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 $",
+                "unit": "Dollar",
+                "spoken": "one Dollar"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 $",
+                "unit": "cent",
+                "spoken": "fifty cents"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 $",
+                "unit": "Dollars",
+                "spoken": "twenty-five Dollars and seventy-five cents"
+            }
+        ]
+    },
+    "SCR": {
+        "symbol": "₨",
+        "name": "Seychellois Rupee",
+        "symbol_native": "₨",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "SCR",
+        "name_plural": "Seychellois rupees",
+        "singleUnit": "Rupee",
+        "pluralUnit": "Rupees",
+        "subunit": "cent",
+        "subunit_plural": "cents",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 ₨",
+                "unit": "Rupee",
+                "spoken": "one Rupee"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 ₨",
+                "unit": "cent",
+                "spoken": "fifty cents"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 ₨",
+                "unit": "Rupees",
+                "spoken": "twenty-five Rupees and seventy-five cents"
+            }
+        ]
+    },
+    "SDG": {
+        "symbol": "SDG",
+        "name": "Sudanese Pound",
+        "symbol_native": "SDG",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "SDG",
+        "name_plural": "Sudanese pounds",
+        "singleUnit": "Pound",
+        "pluralUnit": "Pounds",
+        "subunit": "piastre",
+        "subunit_plural": "piastres",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 SDG",
+                "unit": "Pound",
+                "spoken": "one Pound"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 SDG",
+                "unit": "piastre",
+                "spoken": "fifty piastres"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 SDG",
+                "unit": "Pounds",
+                "spoken": "twenty-five Pounds and seventy-five piastres"
+            }
+        ]
+    },
+    "SEK": {
+        "symbol": "kr",
+        "name": "Swedish Krona",
+        "symbol_native": "kr",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "SEK",
+        "name_plural": "Swedish kronor",
+        "singleUnit": "Krona",
+        "pluralUnit": "Kronor",
+        "subunit": "öre",
+        "subunit_plural": "öre",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 kr",
+                "unit": "Krona",
+                "spoken": "one Krona"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 kr",
+                "unit": "öre",
+                "spoken": "fifty öre"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 kr",
+                "unit": "Kronor",
+                "spoken": "twenty-five Kronor and seventy-five öre"
+            }
+        ]
+    },
+    "SGD": {
+        "symbol": "$",
+        "name": "Singapore Dollar",
+        "symbol_native": "$",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "SGD",
+        "name_plural": "Singapore dollars",
+        "singleUnit": "Dollar",
+        "pluralUnit": "Dollars",
+        "subunit": "cent",
+        "subunit_plural": "cents",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 $",
+                "unit": "Dollar",
+                "spoken": "one Dollar"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 $",
+                "unit": "cent",
+                "spoken": "fifty cents"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 $",
+                "unit": "Dollars",
+                "spoken": "twenty-five Dollars and seventy-five cents"
+            }
+        ]
+    },
+    "SHP": {
+        "symbol": "£",
+        "name": "Saint Helena Pound",
+        "symbol_native": "£",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "SHP",
+        "name_plural": "Saint Helena pounds",
+        "singleUnit": "Pound",
+        "pluralUnit": "Pounds",
+        "subunit": "penny",
+        "subunit_plural": "pence",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 £",
+                "unit": "Pound",
+                "spoken": "one Pound"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 £",
+                "unit": "penny",
+                "spoken": "fifty pence"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 £",
+                "unit": "Pounds",
+                "spoken": "twenty-five Pounds and seventy-five pence"
+            }
+        ]
+    },
+    "SLL": {
+        "symbol": "Le",
+        "name": "Sierra Leonean Leone",
+        "symbol_native": "Le",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "SLL",
+        "name_plural": "Sierra Leonean leones",
+        "singleUnit": "Leone",
+        "pluralUnit": "Leones",
+        "subunit": "cent",
+        "subunit_plural": "cents",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 Le",
+                "unit": "Leone",
+                "spoken": "one Leone"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 Le",
+                "unit": "cent",
+                "spoken": "fifty cents"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 Le",
+                "unit": "Leones",
+                "spoken": "twenty-five Leones and seventy-five cents"
+            }
+        ]
+    },
+    "SOS": {
+        "symbol": "Sh",
+        "name": "Somali Shilling",
+        "symbol_native": "Sh",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "SOS",
+        "name_plural": "Somali shillings",
+        "singleUnit": "Shilling",
+        "pluralUnit": "Shillings",
+        "subunit": "cent",
+        "subunit_plural": "cents",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 Sh",
+                "unit": "Shilling",
+                "spoken": "one Shilling"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 Sh",
+                "unit": "cent",
+                "spoken": "fifty cents"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 Sh",
+                "unit": "Shillings",
+                "spoken": "twenty-five Shillings and seventy-five cents"
+            }
+        ]
+    },
+    "SRD": {
+        "symbol": "$",
+        "name": "Surinamese Dollar",
+        "symbol_native": "$",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "SRD",
+        "name_plural": "Surinamese dollars",
+        "singleUnit": "Dollar",
+        "pluralUnit": "Dollars",
+        "subunit": "cent",
+        "subunit_plural": "cents",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 $",
+                "unit": "Dollar",
+                "spoken": "one Dollar"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 $",
+                "unit": "cent",
+                "spoken": "fifty cents"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 $",
+                "unit": "Dollars",
+                "spoken": "twenty-five Dollars and seventy-five cents"
+            }
+        ]
+    },
+    "SSP": {
+        "symbol": "£",
+        "name": "South Sudanese Pound",
+        "symbol_native": "£",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "SSP",
+        "name_plural": "South Sudanese pounds",
+        "singleUnit": "Pound",
+        "pluralUnit": "Pounds",
+        "subunit": "penny",
+        "subunit_plural": "pence",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 £",
+                "unit": "Pound",
+                "spoken": "one Pound"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 £",
+                "unit": "penny",
+                "spoken": "fifty pence"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 £",
+                "unit": "Pounds",
+                "spoken": "twenty-five Pounds and seventy-five pence"
+            }
+        ]
+    },
+    "STD": {
+        "symbol": "Db",
+        "name": "São Tomé and Príncipe Dobra (pre-2018)",
+        "symbol_native": "Db",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "STD",
+        "name_plural": "São Tomé and Príncipe dobras (pre-2018)",
+        "singleUnit": "Dobra",
+        "pluralUnit": "Dobras",
+        "subunit": "cêntimo",
+        "subunit_plural": "cêntimos",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 Db",
+                "unit": "Dobra",
+                "spoken": "one Dobra"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 Db",
+                "unit": "cêntimo",
+                "spoken": "fifty cêntimos"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 Db",
+                "unit": "Dobras",
+                "spoken": "twenty-five Dobras and seventy-five cêntimos"
+            }
+        ]
+    },
+    "STN": {
+        "symbol": "Db",
+        "name": "São Tomé and Príncipe Dobra",
+        "symbol_native": "Db",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "STN",
+        "name_plural": "São Tomé and Príncipe dobras",
+        "singleUnit": "Dobra",
+        "pluralUnit": "Dobras",
+        "subunit": "cêntimo",
+        "subunit_plural": "cêntimos",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 Db",
+                "unit": "Dobra",
+                "spoken": "one Dobra"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 Db",
+                "unit": "cêntimo",
+                "spoken": "fifty cêntimos"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 Db",
+                "unit": "Dobras",
+                "spoken": "twenty-five Dobras and seventy-five cêntimos"
+            }
+        ]
+    },
+    "SVC": {
+        "symbol": "$",
+        "name": "Salvadoran Colón",
+        "symbol_native": "$",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "SVC",
+        "name_plural": "Salvadoran colóns",
+        "singleUnit": "Colón",
+        "pluralUnit": "Colóns",
+        "subunit": "centavo",
+        "subunit_plural": "centavos",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 $",
+                "unit": "Colón",
+                "spoken": "one Colón"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 $",
+                "unit": "centavo",
+                "spoken": "fifty centavos"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 $",
+                "unit": "Colóns",
+                "spoken": "twenty-five Colóns and seventy-five centavos"
+            }
+        ]
+    },
+    "SYP": {
+        "symbol": "£",
+        "name": "Syrian Pound",
+        "symbol_native": "£",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "SYP",
+        "name_plural": "Syrian pounds",
+        "singleUnit": "Pound",
+        "pluralUnit": "Pounds",
+        "subunit": "piastre",
+        "subunit_plural": "piastres",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 £",
+                "unit": "Pound",
+                "spoken": "one Pound"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 £",
+                "unit": "piastre",
+                "spoken": "fifty piastres"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 £",
+                "unit": "Pounds",
+                "spoken": "twenty-five Pounds and seventy-five piastres"
+            }
+        ]
+    },
+    "SZL": {
+        "symbol": "E",
+        "name": "Swazi Lilangeni",
+        "symbol_native": "E",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "SZL",
+        "name_plural": "Swazi emalangeni",
+        "singleUnit": "Lilangeni",
+        "pluralUnit": "Emalangeni",
+        "subunit": "cent",
+        "subunit_plural": "cents",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 E",
+                "unit": "Lilangeni",
+                "spoken": "one Lilangeni"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 E",
+                "unit": "cent",
+                "spoken": "fifty cents"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 E",
+                "unit": "Emalangeni",
+                "spoken": "twenty-five Emalangeni and seventy-five cents"
+            }
+        ]
+    },
+    "THB": {
+        "symbol": "฿",
+        "name": "Thai Baht",
+        "symbol_native": "฿",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "THB",
+        "name_plural": "Thai baht",
+        "singleUnit": "Baht",
+        "pluralUnit": "Baht",
+        "subunit": "satang",
+        "subunit_plural": "satang",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 ฿",
+                "unit": "Baht",
+                "spoken": "one Baht"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 ฿",
+                "unit": "satang",
+                "spoken": "fifty satang"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 ฿",
+                "unit": "Baht",
+                "spoken": "twenty-five Baht and seventy-five satang"
+            }
+        ]
+    },
+    "TJS": {
+        "symbol": "TJS",
+        "name": "Tajikistani Somoni",
+        "symbol_native": "TJS",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "TJS",
+        "name_plural": "Tajikistani somoni",
+        "singleUnit": "Somoni",
+        "pluralUnit": "Somoni",
+        "subunit": "diram",
+        "subunit_plural": "diram",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 TJS",
+                "unit": "Somoni",
+                "spoken": "one Somoni"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 TJS",
+                "unit": "diram",
+                "spoken": "fifty diram"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 TJS",
+                "unit": "Somoni",
+                "spoken": "twenty-five Somoni and seventy-five diram"
+            }
+        ]
+    },
+    "TMT": {
+        "symbol": "m",
+        "name": "Turkmenistani Manat",
+        "symbol_native": "m",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "TMT",
+        "name_plural": "Turkmenistani manats",
+        "singleUnit": "Manat",
+        "pluralUnit": "Manats",
+        "subunit": "tenge",
+        "subunit_plural": "tenge",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 m",
+                "unit": "Manat",
+                "spoken": "one Manat"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 m",
+                "unit": "tenge",
+                "spoken": "fifty tenge"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 m",
+                "unit": "Manats",
+                "spoken": "twenty-five Manats and seventy-five tenge"
+            }
+        ]
+    },
+    "TND": {
+        "symbol": "د.ت",
+        "name": "Tunisian Dinar",
+        "symbol_native": "د.ت",
+        "decimal_digits": 3,
+        "rounding": 0,
+        "code": "TND",
+        "name_plural": "Tunisian dinars",
+        "singleUnit": "Dinar",
+        "pluralUnit": "Dinars",
+        "subunit": "millime",
+        "subunit_plural": "millimes",
+        "examples": [
+            {
+                "amount": 1.000,
+                "formatted": "1.000 د.ت",
+                "unit": "Dinar",
+                "spoken": "one Dinar"
+            },
+            {
+                "amount": 0.500,
+                "formatted": "0.500 د.ت",
+                "unit": "millime",
+                "spoken": "fifty millimes"
+            },
+            {
+                "amount": 25.750,
+                "formatted": "25.750 د.ت",
+                "unit": "Dinars",
+                "spoken": "twenty-five Dinars and seventy-five millimes"
+            }
+        ]
+    },
+    "TOP": {
+        "symbol": "T$",
+        "name": "Tongan Pa'anga",
+        "symbol_native": "T$",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "TOP",
+        "name_plural": "Tongan pa'anga",
+        "singleUnit": "Pa'anga",
+        "pluralUnit": "Pa'anga",
+        "subunit": "seniti",
+        "subunit_plural": "seniti",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 T$",
+                "unit": "Pa'anga",
+                "spoken": "one Pa'anga"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 T$",
+                "unit": "seniti",
+                "spoken": "fifty seniti"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 T$",
+                "unit": "Pa'anga",
+                "spoken": "twenty-five Pa'anga and seventy-five seniti"
+            }
+        ]
+    },
+    "TRY": {
+        "symbol": "₺",
+        "name": "Turkish Lira",
+        "symbol_native": "₺",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "TRY",
+        "name_plural": "Turkish Lira",
+        "singleUnit": "Lira",
+        "pluralUnit": "Lira",
+        "subunit": "kuruş",
+        "subunit_plural": "kuruş",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 ₺",
+                "unit": "Lira",
+                "spoken": "one Lira"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 ₺",
+                "unit": "kuruş",
+                "spoken": "fifty kuruş"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 ₺",
+                "unit": "Lira",
+                "spoken": "twenty-five Lira and seventy-five kuruş"
+            }
+        ]
+    },
+    "TTD": {
+        "symbol": "$",
+        "name": "Trinidad and Tobago Dollar",
+        "symbol_native": "$",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "TTD",
+        "name_plural": "Trinidad and Tobago dollars",
+        "singleUnit": "Dollar",
+        "pluralUnit": "Dollars",
+        "subunit": "cent",
+        "subunit_plural": "cents",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 $",
+                "unit": "Dollar",
+                "spoken": "one Dollar"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 $",
+                "unit": "cent",
+                "spoken": "fifty cents"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 $",
+                "unit": "Dollars",
+                "spoken": "twenty-five Dollars and seventy-five cents"
+            }
+        ]
+    },
+    "TWD": {
+        "symbol": "NT$",
+        "name": "New Taiwan Dollar",
+        "symbol_native": "NT$",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "TWD",
+        "name_plural": "New Taiwan dollars",
+        "singleUnit": "Dollar",
+        "pluralUnit": "Dollars",
+        "subunit": "cent",
+        "subunit_plural": "cents",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 NT$",
+                "unit": "Dollar",
+                "spoken": "one Dollar"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 NT$",
+                "unit": "cent",
+                "spoken": "fifty cents"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 NT$",
+                "unit": "Dollars",
+                "spoken": "twenty-five Dollars and seventy-five cents"
+            }
+        ]
+    },
+    "TZS": {
+        "symbol": "TSh",
+        "name": "Tanzanian Shilling",
+        "symbol_native": "TSh",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "TZS",
+        "name_plural": "Tanzanian shillings",
+        "singleUnit": "Shilling",
+        "pluralUnit": "Shillings",
+        "subunit": "cent",
+        "subunit_plural": "cents",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 TSh",
+                "unit": "Shilling",
+                "spoken": "one Shilling"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 TSh",
+                "unit": "cent",
+                "spoken": "fifty cents"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 TSh",
+                "unit": "Shillings",
+                "spoken": "twenty-five Shillings and seventy-five cents"
+            }
+        ]
+    },
+    "UAH": {
+        "symbol": "₴",
+        "name": "Ukrainian Hryvnia",
+        "symbol_native": "₴",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "UAH",
+        "name_plural": "Ukrainian hryvnias",
+        "singleUnit": "Hryvnia",
+        "pluralUnit": "Hryvnias",
+        "subunit": "kopiyka",
+        "subunit_plural": "kopiyok",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 ₴",
+                "unit": "Hryvnia",
+                "spoken": "one Hryvnia"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 ₴",
+                "unit": "kopiyka",
+                "spoken": "fifty kopiyok"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 ₴",
+                "unit": "Hryvnias",
+                "spoken": "twenty-five Hryvnias and seventy-five kopiyok"
+            }
+        ]
+    },
+    "UGX": {
+        "symbol": "USh",
+        "name": "Ugandan Shilling",
+        "symbol_native": "USh",
+        "decimal_digits": 0,
+        "rounding": 0,
+        "code": "UGX",
+        "name_plural": "Ugandan shillings",
+        "singleUnit": "Shilling",
+        "pluralUnit": "Shillings",
+        "subunit": "cent",
+        "subunit_plural": "cents",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 USh",
+                "unit": "Shilling",
+                "spoken": "one Shilling"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 USh",
+                "unit": "cent",
+                "spoken": "fifty cents"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 USh",
+                "unit": "Shillings",
+                "spoken": "twenty-five Shillings and seventy-five cents"
+            }
+        ]
+    },
+    "USD": {
+        "symbol": "$",
+        "name": "United States Dollar",
+        "symbol_native": "$",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "USD",
+        "name_plural": "United States dollars",
+        "singleUnit": "Dollar",
+        "pluralUnit": "Dollars",
+        "subunit": "cent",
+        "subunit_plural": "cents",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 $",
+                "unit": "Dollar",
+                "spoken": "one Dollar"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 $",
+                "unit": "cent",
+                "spoken": "fifty cents"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 $",
+                "unit": "Dollars",
+                "spoken": "twenty-five Dollars and seventy-five cents"
+            }
+        ]
+    },
+    "UYU": {
+        "symbol": "$",
+        "name": "Uruguayan Peso",
+        "symbol_native": "$",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "UYU",
+        "name_plural": "Uruguayan pesos",
+        "singleUnit": "Peso",
+        "pluralUnit": "Pesos",
+        "subunit": "centésimo",
+        "subunit_plural": "centésimos",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 $",
+                "unit": "Peso",
+                "spoken": "one Peso"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 $",
+                "unit": "centésimo",
+                "spoken": "fifty centésimos"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 $",
+                "unit": "Pesos",
+                "spoken": "twenty-five Pesos and seventy-five centésimos"
+            }
+        ]
+    },
+    "UZS": {
+        "symbol": "лв",
+        "name": "Uzbekistan Som",
+        "symbol_native": "лв",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "UZS",
+        "name_plural": "Uzbekistan som",
+        "singleUnit": "Som",
+        "pluralUnit": "Som",
+        "subunit": "tiyin",
+        "subunit_plural": "tiyin",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 лв",
+                "unit": "Som",
+                "spoken": "one Som"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 лв",
+                "unit": "tiyin",
+                "spoken": "fifty tyiyn"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 лв",
+                "unit": "Som",
+                "spoken": "twenty-five Som and seventy-five tyiyn"
+            }
+        ]
+    },
+    "VEF": {
+        "symbol": "Bs",
+        "name": "Venezuelan Bolívar Fuerte (Old)",
+        "symbol_native": "Bs",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "VEF",
+        "name_plural": "Venezuelan bolívars fuertes",
+        "singleUnit": "Bolívar Fuerte",
+        "pluralUnit": "Bolívars Fuertes",
+        "subunit": "céntimo",
+        "subunit_plural": "céntimos",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 Bs",
+                "unit": "Bolívar Fuerte",
+                "spoken": "one Bolívar Fuerte"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 Bs",
+                "unit": "céntimo",
+                "spoken": "fifty céntimos"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 Bs",
+                "unit": "Bolívars Fuertes",
+                "spoken": "twenty-five Bolívars Fuertes and seventy-five céntimos"
+            }
+        ]
+    },
+    "VES": {
+        "symbol": "Bs.S",
+        "name": "Venezuelan Bolívar Soberano",
+        "symbol_native": "Bs.S",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "VES",
+        "name_plural": "Venezuelan bolívars soberanos",
+        "singleUnit": "Bolívar Soberano",
+        "pluralUnit": "Bolívars Soberanos",
+        "subunit": "céntimo",
+        "subunit_plural": "céntimos",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 Bs.S",
+                "unit": "Bolívar Soberano",
+                "spoken": "one Bolívar Soberano"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 Bs.S",
+                "unit": "céntimo",
+                "spoken": "fifty céntimos"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 Bs.S",
+                "unit": "Bolívars Soberanos",
+                "spoken": "twenty-five Bolívars Soberanos and seventy-five céntimos"
+            }
+        ]
+    },
+    "VND": {
+        "symbol": "₫",
+        "name": "Vietnamese Dong",
+        "symbol_native": "₫",
+        "decimal_digits": 0,
+        "rounding": 0,
+        "code": "VND",
+        "name_plural": "Vietnamese dong",
+        "singleUnit": "Dong",
+        "pluralUnit": "Dong",
+        "subunit": "hào",
+        "subunit_plural": "hào",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 ₫",
+                "unit": "Dong",
+                "spoken": "one Dong"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 ₫",
+                "unit": "hào",
+                "spoken": "fifty hào"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 ₫",
+                "unit": "Dong",
+                "spoken": "twenty-five Dong and seventy-five hào"
+            }
+        ]
+    },
+    "VUV": {
+        "symbol": "VT",
+        "name": "Vanuatu Vatu",
+        "symbol_native": "VT",
+        "decimal_digits": 0,
+        "rounding": 0,
+        "code": "VUV",
+        "name_plural": "Vanuatu vatus",
+        "singleUnit": "Vatu",
+        "pluralUnit": "Vatus",
+        "subunit": "centime",
+        "subunit_plural": "centimes",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 VT",
+                "unit": "Vatu",
+                "spoken": "one Vatu"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 VT",
+                "unit": "centime",
+                "spoken": "fifty centimes"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 VT",
+                "unit": "Vatus",
+                "spoken": "twenty-five Vatus and seventy-five centimes"
+            }
+        ]
+    },
+    "WST": {
+        "symbol": "WS$",
+        "name": "Samoan Tala",
+        "symbol_native": "WS$",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "WST",
+        "name_plural": "Samoan tala",
+        "singleUnit": "Tala",
+        "pluralUnit": "Tala",
+        "subunit": "sene",
+        "subunit_plural": "sene",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 WS$",
+                "unit": "Tala",
+                "spoken": "one Tala"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 WS$",
+                "unit": "sene",
+                "spoken": "fifty sene"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 WS$",
+                "unit": "Tala",
+                "spoken": "twenty-five Tala and seventy-five sene"
+            }
+        ]
+    },
+    "XAF": {
+        "symbol": "FCFA",
+        "name": "CFA Franc BEAC",
+        "symbol_native": "FCFA",
+        "decimal_digits": 0,
+        "rounding": 0,
+        "code": "XAF",
+        "name_plural": "CFA francs BEAC",
+        "singleUnit": "Franc",
+        "pluralUnit": "Francs",
+        "subunit": "centime",
+        "subunit_plural": "centimes",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 FCFA",
+                "unit": "Franc",
+                "spoken": "one Franc"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 FCFA",
+                "unit": "centime",
+                "spoken": "fifty centimes"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 FCFA",
+                "unit": "Francs",
+                "spoken": "twenty-five Francs and seventy-five centimes"
+            }
+        ]
+    },
+    "XAG": {
+        "symbol": "oz t",
+        "name": "Silver Ounce",
+        "symbol_native": "oz t",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "XAG",
+        "name_plural": "silver ounces",
+        "singleUnit": "Ounce",
+        "pluralUnit": "Ounces",
+        "subunit": "ounce",
+        "subunit_plural": "ounces",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 oz t",
+                "unit": "Ounce",
+                "spoken": "one Ounce"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 oz t",
+                "unit": "ounce",
+                "spoken": "fifty ounces"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 oz t",
+                "unit": "Ounces",
+                "spoken": "twenty-five Ounces and seventy-five ounces"
+            }
+        ]
+    },
+    "XAU": {
+        "symbol": "oz t",
+        "name": "Gold Ounce",
+        "symbol_native": "oz t",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "XAU",
+        "name_plural": "gold ounces",
+        "singleUnit": "Ounce",
+        "pluralUnit": "Ounces",
+        "subunit": "ounce",
+        "subunit_plural": "ounces",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 oz t",
+                "unit": "Ounce",
+                "spoken": "one Ounce"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 oz t",
+                "unit": "ounce",
+                "spoken": "fifty ounces"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 oz t",
+                "unit": "Ounces",
+                "spoken": "twenty-five Ounces and seventy-five ounces"
+            }
+        ]
+    },
+    "XCD": {
+        "symbol": "$",
+        "name": "East Caribbean Dollar",
+        "symbol_native": "$",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "XCD",
+        "name_plural": "East Caribbean dollars",
+        "singleUnit": "Dollar",
+        "pluralUnit": "Dollars",
+        "subunit": "cent",
+        "subunit_plural": "cents",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 $",
+                "unit": "Dollar",
+                "spoken": "one Dollar"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 $",
+                "unit": "cent",
+                "spoken": "fifty cents"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 $",
+                "unit": "Dollars",
+                "spoken": "twenty-five Dollars and seventy-five cents"
+            }
+        ]
+    },
+    "XDR": {
+        "symbol": "SDR",
+        "name": "Special Drawing Rights",
+        "symbol_native": "SDR",
+        "decimal_digits": 0,
+        "rounding": 0,
+        "code": "XDR",
+        "name_plural": "special drawing rights",
+        "singleUnit": "Right",
+        "pluralUnit": "Rights",
+        "subunit": "cent",
+        "subunit_plural": "cents",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 SDR",
+                "unit": "Right",
+                "spoken": "one Right"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 SDR",
+                "unit": "cent",
+                "spoken": "fifty cents"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 SDR",
+                "unit": "Rights",
+                "spoken": "twenty-five Rights and seventy-five cents"
+            }
+        ]
+    },
+    "XOF": {
+        "symbol": "CFA",
+        "name": "CFA Franc BCEAO",
+        "symbol_native": "CFA",
+        "decimal_digits": 0,
+        "rounding": 0,
+        "code": "XOF",
+        "name_plural": "CFA francs BCEAO",
+        "singleUnit": "Franc",
+        "pluralUnit": "Francs",
+        "subunit": "centime",
+        "subunit_plural": "centimes",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 CFA",
+                "unit": "Franc",
+                "spoken": "one Franc"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 CFA",
+                "unit": "centime",
+                "spoken": "fifty centimes"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 CFA",
+                "unit": "Francs",
+                "spoken": "twenty-five Francs and seventy-five centimes"
+            }
+        ]
+    },
+    "XPD": {
+        "symbol": "oz t",
+        "name": "Palladium Ounce",
+        "symbol_native": "oz t",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "XPD",
+        "name_plural": "palladium ounces",
+        "singleUnit": "Ounce",
+        "pluralUnit": "Ounces",
+        "subunit": "ounce",
+        "subunit_plural": "ounces",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 oz t",
+                "unit": "Ounce",
+                "spoken": "one Ounce"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 oz t",
+                "unit": "ounce",
+                "spoken": "fifty ounces"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 oz t",
+                "unit": "Ounces",
+                "spoken": "twenty-five Ounces and seventy-five ounces"
+            }
+        ]
+    },
+    "XPF": {
+        "symbol": "₣",
+        "name": "CFP Franc",
+        "symbol_native": "₣",
+        "decimal_digits": 0,
+        "rounding": 0,
+        "code": "XPF",
+        "name_plural": "CFP francs",
+        "singleUnit": "Franc",
+        "pluralUnit": "Francs",
+        "subunit": "centime",
+        "subunit_plural": "centimes",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 ₣",
+                "unit": "Franc",
+                "spoken": "one Franc"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 ₣",
+                "unit": "centime",
+                "spoken": "fifty centimes"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 ₣",
+                "unit": "Francs",
+                "spoken": "twenty-five Francs and seventy-five centimes"
+            }
+        ]
+    },
+    "XPT": {
+        "symbol": "oz t",
+        "name": "Platinum Ounce",
+        "symbol_native": "oz t",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "XPT",
+        "name_plural": "platinum ounces",
+        "singleUnit": "Ounce",
+        "pluralUnit": "Ounces",
+        "subunit": "ounce",
+        "subunit_plural": "ounces",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 oz t",
+                "unit": "Ounce",
+                "spoken": "one Ounce"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 oz t",
+                "unit": "ounce",
+                "spoken": "fifty ounces"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 oz t",
+                "unit": "Ounces",
+                "spoken": "twenty-five Ounces and seventy-five ounces"
+            }
+        ]
+    },
+    "YER": {
+        "symbol": "﷼",
+        "name": "Yemeni Rial",
+        "symbol_native": "﷼",
+        "decimal_digits": 0,
+        "rounding": 0,
+        "code": "YER",
+        "name_plural": "Yemeni rials",
+        "singleUnit": "Rial",
+        "pluralUnit": "Rials",
+        "subunit": "fils",
+        "subunit_plural": "fils",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 ﷼",
+                "unit": "Rial",
+                "spoken": "one Rial"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 ﷼",
+                "unit": "fils",
+                "spoken": "fifty fils"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 ﷼",
+                "unit": "Rials",
+                "spoken": "twenty-five Rials and seventy-five fils"
+            }
+        ]
+    },
+    "ZAR": {
+        "symbol": "R",
+        "name": "South African Rand",
+        "symbol_native": "R",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "ZAR",
+        "name_plural": "South African rand",
+        "singleUnit": "Rand",
+        "pluralUnit": "Rand",
+        "subunit": "cent",
+        "subunit_plural": "cents",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 R",
+                "unit": "Rand",
+                "spoken": "one Rand"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 R",
+                "unit": "cent",
+                "spoken": "fifty cents"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 R",
+                "unit": "Rand",
+                "spoken": "twenty-five Rand and seventy-five cents"
+            }
+        ]
+    },
+    "ZMW": {
+        "symbol": "ZK",
+        "name": "Zambian Kwacha",
+        "symbol_native": "ZK",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "ZMW",
+        "name_plural": "Zambian kwachas",
+        "singleUnit": "Kwacha",
+        "pluralUnit": "Kwachas",
+        "subunit": "ngwee",
+        "subunit_plural": "ngwee",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 ZK",
+                "unit": "Kwacha",
+                "spoken": "one Kwacha"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 ZK",
+                "unit": "ngwee",
+                "spoken": "fifty ngwee"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 ZK",
+                "unit": "Kwachas",
+                "spoken": "twenty-five Kwachas and seventy-five ngwee"
+            }
+        ]
+    },
+    "ZWL": {
+        "symbol": "$",
+        "name": "Zimbabwean Dollar",
+        "symbol_native": "$",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "ZWL",
+        "name_plural": "Zimbabwean dollars",
+        "singleUnit": "Dollar",
+        "pluralUnit": "Dollars",
+        "subunit": "cent",
+        "subunit_plural": "cents",
+        "examples": [
+            {
+                "amount": 1.00,
+                "formatted": "1.00 $",
+                "unit": "Dollar",
+                "spoken": "one Dollar"
+            },
+            {
+                "amount": 0.50,
+                "formatted": "0.50 $",
+                "unit": "cent",
+                "spoken": "fifty cents"
+            },
+            {
+                "amount": 25.75,
+                "formatted": "25.75 $",
+                "unit": "Dollars",
+                "spoken": "twenty-five Dollars and seventy-five cents"
+            }
+        ]
+    }
+}

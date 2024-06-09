@@ -1,0 +1,14 @@
+{
+  "name": "currency-data-project",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/src/index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.0.0",
+        "@types/node": "^20.14.2"
+  }
+}
